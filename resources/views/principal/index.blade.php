@@ -1,287 +1,355 @@
 @extends('welcome')           
 @section('contenido')
-<div class="bg-slider-wrapper">
-            <div id="bg-slider" class="flexslider bg-slider">
-                <ul class="slides">
-                    <li class="slide slide-1"></li>
-                    <li class="slide slide-2"></li>
-                    <li class="slide slide-3"></li>
-                </ul>
+
+      <!-- Swiper-->
+      <section class="section swiper-container swiper-slider swiper-slider-2" id="home" data-loop="true" data-autoplay="5000" data-simulate-touch="false" data-slide-effect="fade">
+        <div class="swiper-wrapper text-sm-left">
+          <div class="swiper-slide context-dark" data-slide-bg="/images/r_welcome_carrusel7.jpg">
+            <div class="swiper-slide-caption section-md">
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-8 col-md-7 col-lg-6 offset-lg-1 offset-xxl-0">
+                    <h3 style="text-transform: none;" class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Bienvenido a &lt;JDev-S/&gt; </span></h3><a class="button button-lg button-primary button-winona button-shadow-2" href="/contact/#cotizacion" >Comienza!!</a>
+                  </div>
+                </div>
+              </div>
             </div>
-        </div><!--//bg-slider-wrapper--> 
-        <section id="home-promo" class="home-promo section">
-            <div class="container text-center">                
-                <h2 class="title">
-                    <span class="upper">We build</span>
-                    <span class="middle">Web and Mobile Apps</span>
-                    <span class="bottom">for startups and agencies</span>
-                </h2>
-                <button class="btn btn-cta btn-cta-primary" type="button" data-toggle="modal" data-target="#modal-contact" data-backdrop="static">Talk to us</button>
-            </div><!--//container-->
-        </section><!--//promo-->
+          </div>
+            
+          <div class="swiper-slide context-dark" data-slide-bg="/images/r_software5.jpg">
+            <div class="swiper-slide-caption section-md">
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-9 col-md-8 col-xl-6 offset-lg-1 offset-xxl-0">
+                    <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInDown" data-caption-delay="0">Desarrollo de software</span></h3>
+                    <h5 class="swiper-subtitle" data-caption-animate="fadeInRight" data-caption-delay="300">Desarrollamos tu software ideal.</h5>
+                    <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2"  href="/contact/#cotizacion" >Comienza!!</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide context-dark" data-slide-bg="/images/r_equipo_carrusel2.jpg">
+            <div class="swiper-slide-caption section-md">
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-8 col-md-7 col-xl-6 offset-lg-1 offset-xxl-0">
+                    <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInLeft" data-caption-delay="100">Soluciones computacionales</span></h3>
+                    <h5 class="swiper-subtitle" data-caption-animate="fadeInUp" data-caption-delay="0">Que tu preocupación solo sean tus clientes, nos encargamos de tus equipos.</h5>
+                    <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2"  href="/contact/#cotizacion" >Comienza!!</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide context-dark" data-slide-bg="/images/r_redes_carrusel.jpg">
+            <div class="swiper-slide-caption section-md">
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-10 col-md-8 col-lg-7 offset-lg-1 offset-xxl-0">
+                    <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Instalación de redes</span></h3>
+                    <h5 class="swiper-subtitle" data-caption-animate="fadeInRight" data-caption-delay="300">Soluciones de red ajustadas a tus necesidades.</h5>
+                    <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2"  href="/contact/#cotizacion" >Comienza!!</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+             <div class="swiper-slide context-dark" data-slide-bg="/images/r_cctv_carrusel2.jpg">
+            <div class="swiper-slide-caption section-md">
+              <div class="container">
+                <div class="row">
+                  <div class="col-sm-8 col-md-7 col-xl-6 offset-lg-1 offset-xxl-0">
+                    <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInLeft" data-caption-delay="100">Seguridad y vigilancia</span></h3>
+                    <h5 class="swiper-subtitle" data-caption-animate="fadeInUp" data-caption-delay="0">Lo primero es tu seguridad. Mantén tu propiedad segura estés donde estés.</h5>
+                    <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2"  href="/contact/#cotizacion" >Comienza!!</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Swiper Pagination-->
+        <div class="swiper-pagination" data-bullet-custom="true"></div>
+        <!-- Swiper Navigation-->
+        <div class="swiper-button-prev">
+          <div class="preview">
+            <div class="preview__img"></div>
+          </div>
+          <div class="swiper-button-arrow"></div>
+        </div>
+        <div class="swiper-button-next">
+          <div class="swiper-button-arrow"></div>
+          <div class="preview">
+            <div class="preview__img"></div>
+          </div>
+        </div>
+      </section>
 
-<!----------------------------------------------------------------------->
-    <section id="latest-work" class="latest-work section">
-        <div class="container-fluid text-center">
-            <h2 class="title text-center">Our Latest Work</h2>
-            <div id="work-carousel" class="items owl-carousel owl-theme">
-                <div class="item item-1">
-                    <div class="row">
-                        <figure class="figure-container col-lg-6 col-12">
-                            <a href="http://wrapbootstrap.com/preview/WB0N38R04" target="_blank"></a>
-                        </figure>
-                        <div class="content col-lg-6 col-12">
-                            <div class="content-inner">
-                                <h3 class="project-title">Velocity web application</h3>
-                                <ul class="meta list-unstyled">
-                                    <li><strong>Client:</strong> 3rd Wave Media</li>
-                                    <li><strong>What we did:</strong> SaaS development, UX design</li>
-                                </ul><!--//meta-->
-                                <div class="desc">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sodales dolor ut ligula faucibus, nec mattis nibh eleifend. Duis et enim at lacus pharetra mollis molestie nec magna. Maecenas tristique laoreet tristique...</p>
-                                </div><!--//desc-->
-                                <p class="link" ><i class="fas fa-briefcase"></i> <a class="more-link" href="case-study-1.html">Read full case study</a></p>
-                                <p class="link" ><i class="fas fa-external-link-alt"></i> <a class="site-link" href="http://wrapbootstrap.com/preview/WB0N38R04" target="_blank">Website link</a></p>
-                            </div><!--//content-inner-->
-                        </div><!--//content-->
-                    </div><!--//row-->
-                </div><!--//item-->
-                <div class="item item-2">
-                    <div class="row">
-                        <figure class="figure-container col-lg-6 col-12">
-                            <a class="img-link" href="http://wrapbootstrap.com/preview/WB09R23P8" target="_blank"></a>
-                        </figure>
-                        <div class="content col-lg-6 col-12">
-                            <div class="content-inner">
-                                <h3 class="project-title">Delta mobile app </h3>
-                                <ul class="meta list-unstyled">
-                                    <li><strong>Client:</strong> App Startup</li>
-                                    <li><strong>What we did:</strong> App development</li>
-                                </ul><!--//meta-->
-                                <div class="desc">
-                                    <p>Mauris in vestibulum ex. Donec vel malesuada tortor. Etiam consequat semper pulvinar. Integer sit amet felis nisl. Proin leo metus, volutpat vel fringilla vel, faucibus et mi. Duis finibus erat erat, quis mollis...</p>
-                                </div><!--//desc-->
-                                <p class="link" ><i class="fas fa-briefcase"></i> <a class="more-link" href="case-study-2.html">Read full case study</a></p>
-                                <p class="link" ><i class="fas fa-external-link-alt"></i> <a class="site-link" href="http://wrapbootstrap.com/preview/WB09R23P8" target="_blank">Website link</a></p>
-                            </div><!--//content-inner-->
-                        </div><!--//content-->
-                    </div><!--//row-->
-                </div><!--//item-->
-                <div class="item item-3">
-                    <div class="row">
-                        <figure class="figure-container col-lg-6 col-12">
-                            <a class="img-link" href="http://wrapbootstrap.com/preview/WB07364T3" target="_blank"></a>
-                        </figure>
-                        <div class="content col-lg-6 col-12">
-                            <div class="content-inner">
-                                <h3 class="project-title">Tempo </h3>
-                                <ul class="meta list-unstyled">
-                                    <li><strong>Client:</strong> Startup Week</li>
-                                    <li><strong>What we did:</strong> Site design &amp; development</li>
-                                </ul><!--//meta-->
-                                <div class="desc">
-                                    <p>Sed ornare suscipit risus, sed elementum justo porta ac. Duis ultricies lobortis nibh sed facilisis. Etiam eu leo sapien. Integer gravida at urna ac bibendum. Nullam eu orci at felis fermentum lobortis...</p>
-                                    <p class="link" ><i class="fas fa-briefcase"></i> <a class="more-link" href="case-study-1.html">Read full case study</a></p>
-                                    <p class="link" ><i class="fas fa-external-link-alt"></i> <a class="site-link" href="http://wrapbootstrap.com/preview/WB07364T3" target="_blank">Website link</a></p>
-                                </div><!--//desc-->
-                            </div><!--//conten-inner-->
-                        </div><!--//content-->
-                    </div><!--//row-->
-                </div><!--//item-->
-            </div><!--//owl-carousel-->
-            <a class="btn btn-cta btn-cta-secondary" href="work.html">View all case studies</a>
-        </div><!--container-fluid-->
-    </section><!--//latest-work-->
-   <!-- ---------------------------------------------------------------------------------------------------->
-        <section id="testimonials" class="testimonials section">
-        <div class="container">
-            <h2 class="title text-center">Testimonials</h2>
-            <p class="intro text-center">Don’t just take our word for it – see what our clients are saying</p>
-            <div class="row">
-                <div class="item col-lg-6 col-12">
-                    <div class="item-inner">
-                        <div class="quote-container">
-                            <i class="fas fa-quote-left"></i> 
-                            <blockquote class="quote">We had great experience working with Phasellus ut cursus tellus. Etiam ullamcorper varius diam, nec consequat dolor gravida non. Nullam commodo feugiat arcu, ut scelerisque nisl vulputate eget. Cras a euismod elit. 
-                                
-                            </blockquote><!--//quote-->                              
-                        </div><!--//quote-->
-                        <div class="meta">
-                            <div class="profile">
-                                <img class="img-circle" src="assets/images/client/client-profile-1.png" alt="" />
-                                <p class="name">Katherine Hamilton<br />
-                                    <span class="source-title">Product Manager</span>
-                                </p>
-                            </div><!--//profile-->
-                            <div class="client-logo">
-                                <img class="img-fluid" src="assets/images/client/client-logo-1.png" alt="" />
-                            </div><!--//client-logo-->
-                        </div><!--//meta-->        
-                    </div><!--//item-inner-->        
-                </div><!--//item-->
+      <!-- About Company-->
+      <section class="section section-md section-lg-0 bg-gray-100 text-md-left section-relative" id="service">
+        <div class="tabs-custom container" id="tabs-8">
+          <div class="row row-40 flex-lg-row-reverse">
+            <div class="col-lg-4">
+              <div class="nav-tabs-2-button">
+                <h5 class="nav-tabs-2-title">Servicios </h5><span class="icon mdi mdi-arrow-down" data-custom-scroll-to="service"></span>
+              </div>
+              <ul class="nav nav-tabs-2">
+                <li class="nav-item-2 wow fadeInRight" role="presentation"><a class="active" href="#tabs-8-1" data-toggle="tab">Desarrollo de software</a></li>
+                <li class="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-2" data-toggle="tab">Soluciones computacionales</a></li>
+                <li class="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-3" data-toggle="tab">Instalación de redes</a></li>
+                  <li class="nav-item-2 wow fadeInRight" role="presentation"><a href="#tabs-8-4" data-toggle="tab">Seguridad y vigilancia</a></li>
+              </ul>
+            </div>
+            <div class="col-lg-8 tab-content-1 wow fadeInLeft">
+                <br/>
+              <div class="tab-content">
+                <div class="tab-pane fade show active" id="tabs-8-1">
+                    
+            <div class="owl-carousel owl-theme" data-items="1" data-sm-items="1" data-lg-items="1" data-margin="30" data-autoplay="false" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut"> 
                 
-                <div class="item col-lg-6 col-12">
-                    <div class="item-inner">
-                        <div class="quote-container">
-                            <i class="fas fa-quote-left"></i> 
-                            <blockquote class="quote">Cras condimentum erat vel quam dignissim, eu venenatis velit porta. Praesent fermentum, mi sit amet mollis fringilla, ex risus condimentum mauris, at dapibus ipsum turpis non ipsum.                           
-                            </blockquote><!--//quote-->                              
-                        </div><!--//quote-->
-                        <div class="meta">
-                            <div class="profile">
-                                <img class="img-circle" src="assets/images/client/client-profile-2.png" alt="" />
-                                <p class="name">Aaron Brown<br />
-                                    <span class="source-title">Marketing Director</span>
-                                </p>
-                            </div><!--//profile-->
-                            <div class="client-logo">
-                                <img class="img-fluid" src="assets/images/client/client-logo-2.png" alt="" />
-                            </div><!--//client-logo-->
-                        </div><!--//meta-->     
-                    </div><!--//item-inner-->           
-                </div><!--//item-->
                 
-                <div class="clearfix"></div>
+                  <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/r_web.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Desarrollo web</h5>
+                          <p class="box-info-text" style="  text-align: justify;">El Internet se ha convertido en un herramienta muy importante para el mundo y nos permite acceder a muchos recursos. Las empresas usan  sitios web para darse a conocer, ofreciendo sus servicios a los clientes desde cualquier parte a través de una conexión a Internet, muchas empresas crecen exponencialmente gracias a sus sitios web.</p><a class="box-info-link" href="/soluciones_web">Leer más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
+                    
+                    <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/r_desktop3.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Desarrollo de escritorio</h5>
+                          <p class="box-info-text" style="  text-align: justify;">Una aplicación de escritorio es aquella que se instala en tu computadora y dependiendo del caso, ésta puede funcionar con Internet o sin Internet. Estas herramientas ayudan a los negocios a agilizar, disminuir la carga de trabajo y reducir fallos.</p><a class="box-info-link" href="/soluciones_escritorio">Leer Más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
                 
-                <div class="item col-lg-6 col-12">
-                    <div class="item-inner">
-                        <div class="quote-container">
-                            <i class="fas fa-quote-left"></i> 
-                            <blockquote class="quote">Pellentesque nec maximus justo, a ultrices ligula. Duis sollicitudin suscipit arcu eget interdum. Nullam et porttitor sem, id iaculis eros. Sed feugiat leo et ligula pulvinar, et lobortis velit pretium.                         
-                            </blockquote><!--//quote-->                              
-                        </div><!--//quote-->
-                        <div class="meta">
-                            <div class="profile">
-                                <img class="img-circle" src="assets/images/client/client-profile-3.png" alt="" />
-                                <p class="name">Phillip Perry<br />
-                                    <span class="source-title">Product Manager</span>
-                                </p>
-                            </div><!--//profile-->
-                            <div class="client-logo">
-                                <img class="img-fluid" src="assets/images/client/client-logo-3.png" alt="" />
-                            </div><!--//client-logo-->
-                        </div><!--//meta-->  
-                    </div><!--//item-inner-->              
-                </div><!--//item-->
+                <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/r_movil.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Desarrollo móvil</h5>
+                          <p class="box-info-text" style="text-align: justify;">Una aplicación móvil es esencial para las empresas a la hora de querer incrementar sus ganancias. Éstas son muy útiles para que los clientes puedan comprar y observar tus productos y/o servicios desde el lugar que se encuentren, haciendo más agil y sencillo este proceso.</p><a class="box-info-link" href="/soluciones_movil">Leer Más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
                 
-                <div class="item col-lg-6 col-12">
-                    <div class="item-inner">
-                        <div class="quote-container">
-                            <i class="fas fa-quote-left"></i> 
-                            <blockquote class="quote">We are impressed by lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tellus nisi, maximus vel risus vel, fermentum faucibus magna. Aliquam sed aliquet eros. Nunc nec aliquet ligula.
-                            </blockquote><!--//quote-->                              
-                        </div><!--//quote-->
-                        <div class="meta">
-                            <div class="profile">
-                                <img class="img-circle" src="assets/images/client/client-profile-4.png" alt="" />
-                                <p class="name">Victoria Simmons<br />
-                                    <span class="source-title">Product Designer</span>
-                                </p>
-                            </div><!--//profile-->
-                            <div class="client-logo">
-                                <img class="img-fluid" src="assets/images/client/client-logo-4.png" alt="" />
-                            </div><!--//client-logo-->
-                        </div><!--//meta-->  
-                    </div><!--//item-inner-->              
-                </div><!--//item-->
-            </div><!--//row-->
-        </div><!--//container-->
-    </section><!--//testimonials-->  
-<!------------------------------------------------------------------------------------------------------------->
-<section id="logos" class="logos section">
-        <div class="container text-center">
-            <h2 class="title">Who we have worked with</h2>
-            <p class="intro">SaaS / Mobile apps / Marketing sites / Internal apps</p>
-            <ul class="logo-list list-inline row">
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-1.png" alt="" /></a></li>
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-2.png" alt="" /></a></li>
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-3.png" alt="" /></a></li>                   
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-4.png" alt="" /></a></li> 
-            </ul><!--//logo-list-->
-            <ul class="logo-list list-inline row last">
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-5.png" alt="" /></a></li>
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-6.png" alt="" /></a></li>
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-7.png" alt="" /></a></li>                   
-                <li class="col-md-3 col-6"><a href="#"><img class="img-fluid" src="assets/images/logos/logo-8.png" alt="" /></a></li>                   
-            </ul><!--//logos-list-->               
-        </div><!--//container-->
-    </section><!--//logos-->
+                
+                </div>                   
+                </div>
+                  
+            <div class="tab-pane fade" id="tabs-8-2">
+            <div class="owl-carousel owl-theme" data-items="1" data-sm-items="1" data-lg-items="1" data-margin="30" data-autoplay="false" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut"> 
+                
+                
+                  <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/about-1-326x390.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Análisis y reparación de equipo de cómputo</h5>
+                          <p class="box-info-text" style="  text-align: justify;">La computadora se ha convertido en una herramienta fundamental, es muy importante prestarle atencion y brindarle  mantenimiento para prevenir fallas y garantizar que se encuentren en un estado óptimo. Un buen mantenimiento provee un buen funcionamiento del equipo, prolongando su tiempo de vida y previniendo bloqueos. El periodo recomendado para darle mantenimiento a una computadora es de un mínimo de 2 veces por año (cada 6 meses).</p><a class="box-info-link" href="/analisis_reparacion_computo">Leer más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
+                    
+                    <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/pc2.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Ensamblado</h5>
+                          <p class="box-info-text" style="  text-align: justify;">Una computadora ensamblada es aquella que es armada por un experto, la cual esta diseñada para cumplir las necesidades específicas de cada usuario. Tiene la misma calidad y mismo funcionamiento que una computadora de marca, la diferencia es que ésta puede ser personalizada al gusto.</p><a class="box-info-link" href="/ensamblado">Leer más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
+                
+                    <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/r_remotos.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Asistencia remota</h5>
+                          <p class="box-info-text" style="  text-align: justify;">Soporte o asistencia remota, es un servicio en el que el técnico se conecta al ordenador del cliente a distancia, haciendo uso de internet y por medio de un programa de conexión remota. Éste permite resolver múltiples problemas siempre y cuando se relacionen con software. Éste puede incluir servicios como ayuda en instalación de programas, eliminación de virus, instalación y configuración de periféricos. Ofrece ventajas como  rápidez, cómodidad, flexibilidad, entre otros.</p><a class="box-info-link" href="/asistencia_remota">Leer más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
+                
+                </div>  
+         </div>
+                <div class="tab-pane fade" id="tabs-8-3">
+            <div class="owl-carousel owl-theme" data-items="1" data-sm-items="1" data-lg-items="1" data-margin="30" data-autoplay="false" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut"> 
+                
+                <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/r_red.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Instalación de red de computadoras</h5>
+                          <p class="box-info-text" style="  text-align: justify;" >Una red de computadoras es un conjunto de equipos conectados entre si, facilitando la comunicación y el transporte de datos. Para las empresas una red es una de las formas más prácticas para compartir recursos, permitiendo ahorrar tiempo, dinero y a la vez ser más productivos.</p><a class="box-info-link" href="/cableado_computadoras">Leer más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
+                
+                
+                </div>  
+                </div>
+                  
+                                  <div class="tab-pane fade" id="tabs-8-4">
+            <div class="owl-carousel owl-theme" data-items="1" data-sm-items="1" data-lg-items="1" data-margin="30" data-autoplay="false" data-dots="true" data-animation-in="fadeIn" data-animation-out="fadeOut"> 
+                
+                
+                  <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/r_cctv.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Videovigilancia CCTV</h5>
+                          <p class="box-info-text" style="  text-align: justify;">La videovigilancia CCTV es una tecnología enfocada a la seguridad de negocios u hogares, éstas pueden ser instaladas tanto en interiores como en exteriores. Una instalación CCTV te da la posibilidad de estar monitorenando las 24 horas del día sin importar el lugar y la distancia en que te encuentres, siempre tendrás vigilado tu establecimiento u hogar. </p><a class="box-info-link" href="/videovigilancia_cctv">Leer Más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
+                    
+                    <div class="box-info">
+                    <div class="unit flex-column flex-md-row align-items-center">
+                      <div class="unit-left">
+                        <div class="box-info-figure"><img src="/images/r_alarma_principal.jpg" alt="" width="326" height="390"/>
+                        </div>
+                      </div>
+                      <div class="unit-body">
+                        <div class="box-info-content">
+                          <h5 class="box-info-title">Instalación de alarmas</h5>
+                          <p class="box-info-text">La alarma es una tecnologia enfocada a la sefuridad de casas y de negocios. Pueden advertir de un peligro de forma automática. Una instalacion de alarma te da el control las 24 horas del día sin importar el lugar y la distancia en que te encuentres, siempre tendrás protegido tu establecimiento u hogar.</p><a class="box-info-link" href="/alarmas">Leer Más</a>
+                        </div>
+                      </div>
+                    </div>
+                   </div>                
+                </div>  
+                </div>
+                  
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
-   <!-- --------------------------------------------------------------------------------------------------->
-      <section id="cta-section" class="cta-section section text-center home-cta-section">
-        <div class="container">
-           <h2 class="title">Want to have a quick chat?</h2>
-           <p class="phone contact-info">
-               <span class="intro">We are only a phone call away</span>
-               <span class="info"><a href="tel:+08001234567">0800 123 4567</a></span>
-           </p><!--//phone-->
-           <p class="email contact-info">
-               <span class="intro">You can also email us</span>
-               <span class="info"><a href="mailto:hello@yourdevstudio.com">hello@yourdevstudio.com</a></span>
-           </p><!--//phone-->              
-        </div><!--//container-->
-    </section><!--//cta-section-->
-   <!-- --------------------------------------------------------------------------------------------->
+      <!-- Section-->
+      <!-- Icon Creative-->
 
-        <section id="latest-blog" class="latest-blog section">
+      <!-- Section-->
+
+      <!-- Tell-->
+      <section class="section section-xl bg-default" >
         <div class="container">
-            <h2 class="title text-center">Latest Blog Posts</h2>
-            <div class="row">
-                <div class="item col-md-6 col-12">
-                    <div class="item-inner">
-                        <figure class="figure">
-                            <a href="blog-post.html"><img class="img-fluid" src="assets/images/blog/blog-thumb-1.jpg" alt="" /></a>
-                        </figure>
-                        <div class="content-wrapper text-center">
-                            <h3 class="sub-title"><a href="blog-post.html">DevStudio helps XYZ launch</a></h3>
-                            <div class="desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sodales dolor ut ligula faucibus, nec mattis nibh eleifend. Duis et enim at lacus pharetra mollis molestie nec magna. Maecenas tristique laoreet tristique. Ut pellentesque diam nec odio hendrerit euismod.</p>
-                            </div><!--//desc-->
-                        </div><!--//content-wrapper text-center-->
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-                
-                <div class="item col-md-6 col-12">
-                    <div class="item-inner">
-                        <figure class="figure">
-                            <a href="blog-post.html"><img class="img-fluid" src="assets/images/blog/blog-thumb-2.jpg" alt="" /></a>
-                        </figure>
-                        <div class="content-wrapper text-center">
-                            <h3 class="sub-title"><a href="blog-post.html">devAid - Free Bootstrap Theme</a></h3>
-                            <div class="desc">
-                                <p>Mauris libero leo, dapibus a congue ut, mollis sed nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus augue nec nulla ultricies, <a href="http://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/" target="_blank">Download now</a> vitae tincidunt lacus scelerisque.</p>
-                            </div><!--//desc-->
-                        </div><!--//content-wrapper text-center-->
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-                
-                <div class="item col-md-6 col-12">
-                    <div class="item-inner">
-                        <figure class="figure">
-                            <a href="blog-post.html"><img class="img-fluid"  src="assets/images/blog/blog-thumb-3.jpg" alt="" /></a>
-                        </figure>
-                        <div class="content-wrapper text-center">
-                            <h3 class="sub-title"><a href="blog-post.html">DevStudio Team Lorem Ipsum</a></h3>
-                            <div class="desc">
-                                <p>In vel mauris consequat, ullamcorper diam id, eleifend tellus. Phasellus elementum facilisis eleifend. Nullam imperdiet odio massa, et blandit augue porta vehicula. Proin venenatis ullamcorper enim, in vulputate nisi luctus eget. Justo vitae tincidunt vestibulum. Cras consectetur lacinia massa.</p>
-                            </div><!--//desc-->
-                        </div><!--//content-wrapper text-center-->
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-                <div class="item col-md-6 col-12">
-                    <div class="item-inner">
-                        <figure class="figure">
-                            <a href="blog-post.html"><img class="img-fluid" src="assets/images/blog/blog-thumb-4.jpg" alt="" /></a>
-                        </figure>
-                        <div class="content-wrapper text-center">
-                            <h3 class="sub-title"><a href="blog-post.html">Our Consectetur Adipiscing</a></h3>
-                            <div class="desc">
-                                <p>Aenean eget molestie ipsum, in commodo felis. Sed vitae enim est. Nunc at eros id purus vulputate elementum in vel nisi. Donec tempus turpis et viverra semper. Curabitur facilisis sem elit, vitae condimentum enim auctor ac. Sed orci magna, euismod eu mi eu, fringilla tincidunt orci. Phasellus molestie.</p>
-                            </div><!--//desc-->
-                        </div><!--//content-wrapper text-center-->
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-            </div><!--//row-->
-        </div><!--//container-->
-    </section><!--//latest-blog-->
+          <h3 class="oh-desktop"><span class="d-inline-block wow slideInUp">Realiza tu Cotización</span></h3>
+          <!--<form action={{route('contact')}} method="POST"> -->
+           <form class="rd-form rd-mailform form-style-1" method="POST" action={{route('contact')}}>
+              {{ csrf_field() }}
+            <div class="row row-20 gutters-20">
+              <div class="col-md-6 col-lg-4 oh-desktop">
+                <div class="form-wrap wow slideInDown">
+                  <input class="form-input" id="nombre_completo" type="text" name="nombre_completo" data-constraints="@Required">
+                  <label class="form-label" for="nombre_completo">Nombre completo*</label>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-4 oh-desktop">
+                <div class="form-wrap wow slideInUp">
+                  <input class="form-input" id="email" type="email" name="email" data-constraints="@Email @Required">
+                  <label class="form-label" for="email"> E-mail*</label>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-4 oh-desktop">
+                <div class="form-wrap wow slideInDown">
+                  <input class="form-input" id="nombre_empresa" type="text" name="nombre_empresa" data-constraints="@Required">
+                  <label class="form-label" for="nombre_empresa">Nombre completo de la empresa*</label>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-4 oh-desktop">
+                <div class="form-wrap wow slideInUp">
+                  <input class="form-input" id="telefono" type="text" name="telefono" data-constraints=" @Required">
+                  <label class="form-label" for="telefono"> Teléfono*</label>
+                </div>
+              </div>
+              <div class="col-lg-4 oh-desktop">
+                <div class="form-wrap wow slideInDown">
+                  <!--Select 2-->
+                  <select class="form-input" data-minimum-results-for-search="Infinity" data-constraints="@Required" name="categoria" id="categoria">
+                    <option >Seleccione la categoría de su proyecto</option>
+                    <option value="Desarrollo web">Desarrollo web</option>
+                    <option value="Desarrollo móvil">Desarrollo móvil</option>
+                    <option value="Desarrollo de escritorio">Desarrollo de escritorio</option>
+                    <option value="Ensamblado">Ensamblado</option>
+                    <option value="Análisis y reparación de equipo de cómputo">Análisis y reparación de equipo de cómputo</option>
+                      <option value="Asistencia remota">Asistencia remota</option>
+                    <option value="Videovigilancia CCTV">Videovigilancia CCTV</option>
+                    <option value="Instalación de alarmas">Instalación de alarmas</option>
+                    <option value="Instalación de red de computadoras">Instalación de red de computadoras</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="form-wrap wow fadeIn">
+                  <label class="form-label" for="descripcion">Descripción del Proyecto</label>
+                  <textarea class="form-input textarea-lg" id="descripcion" name="descripcion" data-constraints="@Required"></textarea>
+                </div>
+              </div>
+            </div>
+            <div class="group-custom-1 group-middle oh-desktop">
+              <button class="button button-lg button-primary button-winona wow fadeInRight" type="submit">Consultar</button>
+              <!-- Quote Classic-->
+              <article class="quote-classic quote-classic-3 wow slideInDown">
+                <div class="quote-classic-text">
+                  <p class="q">Siéntete libre de escribirnos.</p>
+                </div>
+              </article>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <!-- Subscribe to Our Newsletter-->
+
+      <!-- Latest news-->
+
 @stop
+

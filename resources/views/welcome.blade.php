@@ -1,295 +1,398 @@
-
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>J&amp;J DEVELOPERS WDM</title>
-    <!-- Meta -->
-    <meta charset="utf-8">
+<html class="wide wow-animation" lang="en">
+  <head>
+      
+<!-- Start of Async Callbell Code -->
+<script>
+  window.callbellSettings = {
+    token: "EmyXQabydXd4doj4tZPkakLe"
+  };
+</script>
+<script>
+  (function(){var w=window;var ic=w.callbell;if(typeof ic==="function"){ic('reattach_activator');ic('update',callbellSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Callbell=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://dash.callbell.eu/include/'+window.callbellSettings.token+'.js';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+</script>
+<!-- End of Async Callbell Code -->
+
+
+  
+<!—- ShareThis BEGIN -—>
+<script async src="https://platform-api.sharethis.com/js/sharethis.js#property=5e8e8626a034e50012b52cee&product=sticky-share-buttons"></script>
+<!—- ShareThis END -—>
+    <title>&lt;JDev-S/&gt;</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">    
-    <link rel="shortcut icon" href="favicon.ico">  
-    <link href='https://fonts.googleapis.com/css?family=Merriweather+Sans:700,300italic,400italic,700italic,300,400' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Russo+One' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <!-- FontAwesome JS -->
-    <script defer src="/js/all.js"></script>
-    <!-- Global CSS -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css">   
-    <!-- Plugins CSS -->    
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/flexslider.css">
-    <link rel="stylesheet" href="/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="/css/owl.theme.default.min.css"> 
-    
-    <!-- Theme CSS -->
-    <link id="theme-style" rel="stylesheet" href="/css/theme-1.css">
-    
-    <!-- Facebook Pixel Code -->
-    <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','//connect.facebook.net/en_US/fbevents.js');
-    
-    fbq('init', '1506230579705064');
-    fbq('track', "PageView");</script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=1506230579705064&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-    
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-24707561-22"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    
-      gtag('config', 'UA-24707561-22');
-    </script>
+    <meta charset="utf-8">
+    <!--<script src="/cdn-cgi/apps/head/3ts2ksMwXvKRuG480KNifJ2_JNM.js"></script>--><link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+    <!-- Stylesheets-->
+    <link rel="stylesheet"  href="{{ asset('css/css.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.css')}} ">
+    <link rel="stylesheet" href="  {{ asset('css/fonts.css') }}  ">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+      <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,500,600,700,900%7CRaleway:500">
+    <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+      <!--STYLE DE ACERCA DE -->
+
+       <!--<link rel="stylesheet" href="/css/style_2.css">                            <!-- Template CSS -->
+    <!--<link rel="stylesheet" href="/css/font-awesome.min.css">                 <!-- Font-Awesome Icons -->
+   <link rel="stylesheet" href="/css/icomoon.min.css">                  <!-- iconmoon Icons -->
+    <link rel="stylesheet" href="/css/animate.css">						<!-- Wow Animation CSS -->
+    <!--<link rel="stylesheet" media="screen" href="/css/style-particle.css">-->	<!-- ParticlesCSS -->    
+      <!------------------------------------------------------------------------------------------------->
+<style>
 
 
-
-</head> 
-
-<body class="home-page">     
-    <div class="header-wrapper header-wrapper-home">
-        <!-- ******HEADER****** --> 
-        <header id="header" class="header fixed-top">  
-            <div class="container">       
-                <h1 class="logo">
-                    <a href="/"><span class="highlight">J&amp;J </span>DEVELOPERS WDM</a>
-                </h1><!--//logo-->
-                <nav class="main-nav navbar navbar-expand-md navbar-dark" role="navigation">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div id="navbar-collapse" class="navbar-collapse collapse justify-content-end">
-                        <ul class="nav navbar-nav">
-                            <li class="active nav-item"><a class="nav-link" href="/">Home</a></li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="work.html">Work <i class="fas fa-angle-down"></i></a>
-                                <div class="dropdown-menu dropdown-menu-right">
-                                    <a class="dropdown-item" href="work.html">Our Work</a>
-                                    <a class="dropdown-item" href="case-study-1.html">Single Case Study 1</a>
-                                    <a class="dropdown-item" href="case-study-2.html">Single Case Study 2</a>
-                                    <a class="dropdown-item" href="blog-post.html">Single Blog Post</a>
-                                    <a class="dropdown-item" href="404.html">404 Page</a>           
-                                </div>
-                            </li><!--//dropdown--> 
-                            <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>                                              
-                            <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-                            <li class="nav-item last"><a class="nav-link" href="contact.html">Contact</a></li>
-                        </ul><!--//nav-->
-                    </div><!--//navabr-collapse-->
-                </nav><!--//main-nav-->
-            </div><!--//container-->
-        </header><!--//header-->   
-        
-    </div><!--//header-wrapper-->
-       
-    <!-- ******Why Section****** -->
-    
-    
-    <!-- ******Latest work section****** -->
-
-    
-    <!-- ******Testimonials Section****** -->
-        
-    
-    <!-- ******Logos Section****** -->
-    
-    
-    <!-- ******CTA Section****** -->
-
-    
-    <!-- ******Latest blog Section****** -->
-
-
-@yield('contenido')
-    
-    <!-- ******FOOTER****** --> 
-    <footer class="footer">
-        <div class="footer-content">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-lg-3 col-md-4 col-12 links-col">
-                        <div class="footer-col-inner">
-                            <h3 class="sub-title">Quick Links</h3>
-                            <ul class="list-unstyled">
-                                <li><a href="about.html">About us</a></li>
-                                <li><a href="work.html">Our work</a></li>
-                                <li><a href="contact.html">Contact</a></li>                                
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="#">Privacy policy</a></li>
-                                <li><a href="#">Terms &amp; Conditions</a></li>
-                            </ul>
-                        </div><!--//footer-col-inner-->
-                    </div><!--//foooter-col-->
-                    <div class="footer-col col-lg-6 col-md-8 col-12 blog-col">
-                        <div class="footer-col-inner">
-                            <h3 class="sub-title">Latest From Our Blog</h3>
-                            <div class="item">
-                                <figure class="figure">
-                                    <img class="img-fluid" src="assets/images/blog/blog-tiny-thumb-1.jpg" alt="" />
-                                </figure>
-                                <div class="content">
-                                    <h4 class="post-title"><a href="blog-post.html">DevStudio helps XYZ launch</a></h4>
-                                    <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sodales dolor ut ligula faucibus...</p>
-                                    <ul class="meta list-inline">
-                                        <li>18 Feb 2015</li>
-                                        <li>James Lee</li>
-                                    </ul>
-                                </div><!--//content-->
-                            </div>  
-                            <div class="item">
-                                <figure class="figure">
-                                    <img class="img-fluid" src="assets/images/blog/blog-tiny-thumb-2.jpg" alt="" />
-                                </figure>
-                                <div class="content">
-                                    <h4 class="post-title"><a href="blog-post.html">devAid - Free Bootstrap Theme</a></h4>
-                                    <p class="intro">Mauris libero leo, dapibus a congue ut, mollis sed nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus augue nec nulla ultricies...</p>
-                                    <ul class="meta list-inline">
-                                        <li>21 Dec 2014</li>
-                                        <li>Vincent Fowler</li>
-                                    </ul>
-                                </div><!--//content-->
-                            </div>                                                     
-                        </div><!--//footer-col-inner-->
-                    </div><!--//foooter-col--> 
-                    <div class="footer-col col-lg-3 col-12 contact-col">
-                        <div class="footer-col-inner">
-                            <h3 class="sub-title">Get In Touch</h3>
-                            <p class="intro"></p>
-                            <div class="row">
-                                <p class="adr clearfix col-lg-12 col-md-4">
-                                    <span class="fs1" aria-hidden="true" data-icon="&#xe01d;"></span>        
-                                    <span class="adr-group">       
-                                        <span class="street-address">56 College Green Road</span><br />
-                                        <span class="city">Bristol</span><br />
-                                        <span class="postal-code">BS1 XR18</span><br />
-                                        <span class="country-name">UK</span>
-                                    </span>
-                                </p>
-                                <p class="tel col-lg-12 col-md-4 col-12"><span class="fs1" aria-hidden="true" data-icon="&#x77;"></span><a href="tel:+08001234567">0800 123 4567</a></p>
-                                <p class="email col-lg-12 col-md-4 col-12"><span class="fs1" aria-hidden="true" data-icon="&#xe010;"></span><a href="#">hello@yourdevstudio.com</a></p> 
-                            </div> 
-                        </div><!--//footer-col-inner-->            
-                    </div><!--//foooter-col-->   
-                </div>   
-            </div>        
-        </div><!--//footer-content-->
-        <div class="bottom-bar">
-            <div class="container center">                                   
-                <ul class="social-icons list-inline">
-                    <li class="list-inline-item"><a href="https://twitter.com/3rdwave_themes"><i class="fab fa-twitter"></i></a></li>                        
-                    <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                    <li class="list-inline-item"><a href="https://www.facebook.com/3rdwavethemes"><i class="fab fa-instagram"></i></a></li>
-                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                    <li class="last list-inline-item"><a href="#"><i class="fab fa-google-plus-g"></i></a></li>                     
-                </ul> 
-                <small class="copyright text-center">Template Copyright @ <a href="http://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>                 
-            </div><!--//container-->
-        </div><!--//bottom-bar-->
-    </footer><!--//footer-->
-    
-    <!-- Contact Modal -->
-    <div class="modal modal-contact" id="modal-contact" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h5 id="contactModalLabel" class="modal-title">Start your project today</h5>
+</style>
+      
+      
+  </head>
+  <body>
+    <div class="ie-panel"><a href="https://windows.microsoft.com/en-US/internet-explorer/"><img src="/images/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+    <div class="preloader">
+      <div class="wrapper-triangle">
+        <div class="pen">
+          <div class="line-triangle">
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+          </div>
+          <div class="line-triangle">
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+          </div>
+          <div class="line-triangle">
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+            <div class="triangle"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="page">
+      <!-- Page Header-->
+      <header class="section page-header">
+        <!-- RD Navbar-->
+        <div class="rd-navbar-wrap">
+          <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="150px" data-xl-stick-up-offset="150px" data-xxl-stick-up-offset="150px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+            <div class="rd-navbar-inner-outer">
+              <div class="rd-navbar-inner">
+                <!-- RD Navbar Panel-->
+                <div class="rd-navbar-panel">
+                  <!-- RD Navbar Toggle-->
+                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                  <!-- RD Navbar Brand-->
+                  <div class="rd-navbar-brand"><a class="brand" href="/"><img src="/images/logo_compu_jdevs_6.svg" alt="JDev-S"  /></a></div>
                 </div>
-                <div class="modal-body">
-                    <p class="intro text-center">Lorem ipsum dolor sit amet consectetur adipiscing elit laoreet tortor consequat nisi scelerisque commodo etiam justo sapien.</p>
-                    <ul class="contact-info list-inline text-center">
-                        <li class="tel list-inline-item"><span class="fs1" aria-hidden="true" data-icon="&#x77;"></span><br /> <a href="+0800123456">0800 123 4567</a></li>
-                        <li class="email list-inline-item"><span class="fs1" aria-hidden="true" data-icon="&#xe010;"></span><br /> <a href="#">hello@yourdevstudio.com</a></li>
+                <div class="rd-navbar-right rd-navbar-nav-wrap">
+                  <div class="rd-navbar-aside">
+                    <ul class="rd-navbar-contacts-2">                       
+                     <li>
+                        <div class="unit unit-spacing-xs">
+                          <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
+                          <div class="unit-body"><a class="phone" href="tel:#">464-112-4092</a></div>
+                        </div>
+                      </li>
+                       <li>
+                        <div class="unit unit-spacing-xs">
+                          <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
+                          <div class="unit-body"><a class="phone" href="tel:#">443-111-1547</a></div>
+                        </div>
+                      </li>
                     </ul>
-                    <form id="contact-form" class="contact-form" method="post" action="#">                    
-                        <div class="row text-center">
-                            <div class="contact-form-inner">
-                                <div class="row">                                                           
-                                    
-                                    <div class="col-lg-6 col-md-6 col-12 form-group">
-                                        <label class="sr-only" for="cname">Your name</label>
-                                        <input type="text" class="form-control" id="cname" name="name" placeholder="Your name" minlength="2" required>
-                                    </div>                    
-                                    <div class="col-lg-6 col-md-6 col-12 form-group">
-                                        <label class="sr-only" for="cemail">Email address</label>
-                                        <input type="email" class="form-control" id="cemail" name="email" placeholder="Your email address" required>
-                                    </div>
-                                    <div class="col-lg-12 col-12 form-group">
-                                        <label class="sr-only" for="cmessage">Your message</label>
-                                        <textarea class="form-control" id="cmessage" name="message" placeholder="Enter your message" rows="12" required></textarea>
-                                    </div>
-                                     <div class="col-lg-12 col-12 form-group">
-                                        <button type="submit" class="btn btn-block btn-cta btn-cta-primary">Send Message</button>
-                                    </div>                           
-                                </div><!--//row-->
-                            </div>
-                        </div><!--//row-->
-                        <div id="form-messages"></div>
-                    </form><!--//contact-form-->
-                </div><!--//modal-body-->
-            </div><!--//modal-content-->
-        </div><!--//modal-dialog-->
-    </div><!--//modal-->
-    
-    <!-- *****CONFIGURE STYLE (REMOVE ON YOUR PRODUCTION SITE)****** -->  
-    <div class="config-wrapper">
-        <div class="config-wrapper-inner">
-            <a id="config-trigger" class="config-trigger" href="#"><span class="fs1" aria-hidden="true" data-icon="&#x67;"></span></a>
-            <div id="config-panel" class="config-panel">
-                <h5>Choose Colour</h5>
-                <ul id="color-options" class="list-unstyled list-inline">
-                    <li class="list-inline-item theme-1 active" ><a data-style="assets/css/theme-1.css" href="#"></a></li>
-                    <li class="list-inline-item theme-2"><a data-style="assets/css/theme-2.css" href="#"></a></li>
-                    <li class="list-inline-item theme-3"><a data-style="assets/css/theme-3.css" href="#"></a></li>
-                    <li class="list-inline-item theme-4"><a data-style="assets/css/theme-4.css" href="#"></a></li>                   
-                    <li class="list-inline-item theme-5"><a data-style="assets/css/theme-5.css" href="#"></a></li>                     
-                    <li class="list-inline-item theme-6"><a data-style="assets/css/theme-6.css" href="#"></a></li>
-                    <li class="list-inline-item theme-7"><a data-style="assets/css/theme-7.css" href="#"></a></li>
-                    <li class="list-inline-item theme-8"><a data-style="assets/css/theme-8.css" href="#"></a></li>                    
-                    <li class="list-inline-item theme-9"><a data-style="assets/css/theme-9.css" href="#"></a></li>
-                    <li class="list-inline-item theme-10"><a data-style="assets/css/theme-10.css" href="#"></a></li>
-                </ul><!--//color-options-->
-                <a id="config-close" class="close" href="#"><i class="fas fa-times-circle"></i></a>
-            </div><!--//configure-panel-->
-        </div><!--//config-wrapper-inner-->
-    </div><!--//config-wrapper-->
- 
-    <!-- Main Javascript -->          
-    <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="/js/popper.min.js"></script> 
-    <script type="text/javascript" src="/js/bootstrap.min.js"></script> 
-    <script type="text/javascript" src="/js/back-to-top.js"></script>                                                                            
-    <script type="text/javascript" src="/js/main.js"></script>
-    
-    <!-- Flexslider -->    
-    <script type="text/javascript" src="/js/jquery.flexslider-min.js"></script> 
-    <script type="text/javascript" src="/js/flexslider-custom.js"></script>     
-    
-    <!-- Form Validation -->
-    <script type="text/javascript" src="/js/jquery.validate.min.js"></script> 
-    <script type="text/javascript" src="/js/form-validation-custom.js"></script>
-    
-    <!-- Form iOS fix -->
-    <script type="text/javascript" src="/js/isMobile.min.js"></script>
-    <script type="text/javascript" src="/js/form-mobile-fix.js"></script>
-    
-    <!-- Owl Carousel -->
-    <script type="text/javascript" src="/js/owl.carousel.min.js"></script> 
-    <script type="text/javascript" src="/js/owl-custom.js"></script> 
-    
-    
-    <!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
-    <script src="/js/style-switcher.js"></script>
-    
-</body>
-</html> 
+                    <ul class="list-share-2">
+                       <li><a class="icon mdi mdi-facebook" href="https://www.facebook.com/JDev-S-108934214077098/"></a></li>
+                    <li><a class="icon mdi mdi-twitter" href="https://mobile.twitter.com/s_jdev"></a></li>
+                    <li><a class="icon mdi mdi-instagram" href="https://www.instagram.com/jdev_s/"></a></li>
+                      <li><a class="icon mdi mdi-youtube" href="https://www.youtube.com/channel/UCFSNW9sMpg1ivRZIZ8K4YJw"></a></li> 
+                    </ul>
+                  </div>
+                  <div class="rd-navbar-main">
+                    <!-- RD Navbar Nav-->
+                    <ul class="rd-navbar-nav">
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="/">Inicio</a>
+                      </li>
+                      
+				
+				<li class="rd-nav-item  rd-navbar--has-dropdown rd-navbar-submenu-active "><a  class="rd-nav-link" href="#service">Servicios</a>
+                    <span class="rd-navbar-submenu-toggle"> </span>
+                    <ul class="rd-navbar-dropdown" >
+                        
+                    <li class="rd-nav-item2"><a class="rd-nav-link2"><span class="span_estilo">Desarrollo de software</span></a>
+                        <ul class="rd-navbar-dropdown rd-navbar-open-right">
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/soluciones_web">Desarrollo web</a>
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/soluciones_movil">Desarrollo móvil</a>
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/soluciones_escritorio">Desarrollo de escritorio</a> 
+                      </ul>
+                        
+                      </li>
+                        
+                       <li class="rd-nav-item2"><a class="rd-nav-link2" ><span class="span_estilo">Soluciones computacionales</span></a>
+                        <ul class="rd-navbar-dropdown">
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/analisis_reparacion_computo">Análisis y reparación de cómputo</a>
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/ensamblado">Ensamblado</a>
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/servicio_remoto">Asistencia remota</a>
+                      </ul>
+                        
+                      </li>
+                        
+                        <li class="rd-nav-item2"><a class="rd-nav-link2" href="/cableado_computadoras" ><span class="span_estilo">Instalación de red</span></a> </li>
+                        
+                        <li class="rd-nav-item2"><a class="rd-nav-link2"><span class="span_estilo">Seguridad y vigilancia</span></a>
+                        <ul class="rd-navbar-dropdown ">
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/videovigilancia_cctv">Videovigilancia CCTV</a>
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/alarmas">Instalacion de alarmas</a>
+                      </ul>
+                      </li>
+                    </ul>                        
+				</li>
+                      <!--<li class="rd-nav-item"><a class="rd-nav-link" href="/about/">Nosotros</a>
+                      </li>-->
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="/contact/">Contacto</a>
+                      </li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="#team">Tienda</a>
+                      </li>
+                      <!--<li class="rd-nav-item"><a class="rd-nav-link" href="#news">News</a>
+                      </li>-->
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <!-- Swiper-->
 
+      <!-- About Company-->
+
+
+      <!-- What we offer-->
+
+
+      <!-- Section CTA-->
+
+
+      <!-- Section-->
+
+      <!-- Icon Creative-->
+
+      <!-- Section-->
+
+      <!-- Tell-->
+
+      <!-- Subscribe to Our Newsletter-->
+
+
+      <!-- Latest news-->
+      @yield('contenido')  
+      <!-- Page Footer-->
+      <footer class="section footer-classic context-dark" style="margin-top:30px;">
+        <div class="footer-classic-content">
+          <div class="container">
+            <div class="row row-50 row-lg-0 no-gutters">
+              <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0s">
+                <div class="footer-classic-header">
+                  <h6 class="footer-classic-title" >Enlaces rápidos</h6>
+                </div>
+                <div class="footer-classic-body">
+                  <ul class="footer-classic-list d-inline-block d-sm-block">
+                    
+                    <li><a >FAQ</a></li>
+                    <li><a href="/contact/#cotizacion">Cotizar</a></li>
+                    <li><a href="/#service">Servicios</a></li>
+                    <li><a href="/contact">Contáctanos</a></li>
+                   
+                  </ul>
+                    <br/>
+                    
+                  <ul class="list-inline footer-social-list">
+                      <p style="font-size:16px">Siguenos en:</p>
+                    <li><a class="icon mdi mdi-facebook" href="https://www.facebook.com/JDev-S-108934214077098/"></a></li>
+                    <li><a class="icon mdi mdi-twitter" href="https://mobile.twitter.com/s_jdev"></a></li>
+                    <li><a class="icon mdi mdi-instagram" href="https://www.instagram.com/jdev_s/"></a></li>
+                      <li><a class="icon mdi mdi-youtube" href="https://www.youtube.com/channel/UCFSNW9sMpg1ivRZIZ8K4YJw"></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay=".1s">
+                <div class="footer-classic-header">
+                  <div class="box-width-300" >
+                    <h6  class="footer-classic-title"  style=" text-align: center;">Mantente en contacto</h6>
+                  </div>
+                </div>
+                <div class="footer-classic-body">
+                  <div class="box-width-230">
+                    <div class="footer-classic-contacts">
+                      <div class="footer-classic-contacts-item">
+                        <div class="unit unit-spacing-sm align-items-center">
+                          <div class="unit-left"><span class="icon mdi mdi-cellphone-android"></span></div>
+                          <div class="unit-body"><a class="phone" href="https://api.whatsapp.com/send?phone=524431111547&text=Hola">443-111-1547</a></div>                            
+                        </div>
+                      </div>
+                                              <div class="footer-classic-contacts-item">
+                        <div class="unit unit-spacing-sm align-items-center">
+                          <div class="unit-left"><span class="icon mdi mdi-cellphone-android"></span></div>
+                          <div class="unit-body"><a class="phone" href="https://api.whatsapp.com/send?phone=524641124092&text=Hola">464-112-4092</a></div>                            
+                        </div>
+                      </div>
+                      <div class="footer-classic-contacts-item">
+                        <div class="unit unit-spacing-sm align-items-center">
+                          <div class="unit-left"><span class="icon mdi mdi-email"></span></div>
+                          <div class="unit-body"><a class="mail" href="mailto:#">serviclientedev@jjdeveloperswdm.com</a></div>
+                        </div>
+                      </div>
+                    </div><a class="button button-sm button-primary button-winona" href="/contact/#cotizacion">Empezemos!!</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 position-static">
+                <div class="footer-classic-gmap">
+                  <div class="google-map-container" data-styles="[{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#e9e9e9&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:29},{&quot;weight&quot;:0.2}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:18}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:21}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dedede&quot;},{&quot;lightness&quot;:21}]},{&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:36},{&quot;color&quot;:&quot;#333333&quot;},{&quot;lightness&quot;:40}]},{&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;},{&quot;lightness&quot;:19}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:17},{&quot;weight&quot;:1.2}]}]">
+                      
+                   <iframe frameborder="0" style="border:0; height:350px; width:96%; " src="https://www.google.com/maps/embed/v1/place?key=AIzaSyANOAQtpBzoK0a2jIVIUgn28Agglci6-lQ&q=place_id:EkBQYXNlbyBkZSBMb3MgVm9sY2FuZXMsIExhcyBSZXluYXMsIDM2NzIwIFNhbGFtYW5jYSwgR3RvLiwgTWV4aWNvIi4qLAoUChIJxcjchNmELIQRlkB3pp7GfkcSFAoSCT2jy6_ehCyEEffDJX1K2JVp" allowfullscreen=""></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-classic-panel">
+          <div class="container">
+            <!-- Rights-->
+            <p class="rights" style="color:white;text-transform: none;"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>&lt;JDev-S/&gt;</span><span>.&nbsp;</span><span>Derechos reservados</span></p>
+          </div>
+        </div>
+          </div>
+      </footer>
+    </div>
+    <!--<div class="modal modal-1" id="exampleModal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5>Get in Touch</h5>
+            <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
+          </div>
+          <div class="modal-body" >
+            <form class="rd-mailform form-style-2" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+              <div class="form-wrap form-wrap_icon linear-icon-man">
+                <input class="form-input" id="contact-name-2" type="text" name="name" data-constraints="@Required" >
+                <label  class="form-label" for="contact-name-2">Nombre Completo</label>
+              </div>
+              <div class="form-wrap form-wrap_icon linear-icon-envelope">
+                <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required">
+                <label class="form-label" for="contact-email-2">Your E-mail</label>
+              </div>
+
+              <div class="form-wrap form-wrap_icon linear-icon-envelope">
+                <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required">
+                <label class="form-label" for="contact-email-2">Telefono</label>
+              </div>
+                    <div class="col-xs-12 col-sm-12 col-md-6">
+                                <div class="form-group">
+                                    <div class="col-md-12">
+                                      <select class="form-control selectpicker">
+                                          <option>example 1</option>
+                                          <option>example 2</option>
+                                          <option>example 3</option>
+                                          <option>example 4</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+              <div class="form-wrap form-wrap_icon linear-icon-feather">
+                <textarea class="form-input" id="contact-message-3" name="message" data-constraints="@Required"></textarea>
+                <label class="form-label" for="contact-message-3">Describe el proyecto</label>
+              </div>
+              <button class="button button-primary" type="submit">Consultar</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>-->
+      <!--------------------------------------------------------------------------------------------------------------->
+      
+
+      
+      
+    <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Javascript-->
+    <script src=" {{ asset('js/core.min.js') }}"></script>
+    <script src=" {{ asset('js/script.js') }}"></script>
+
+    <!-- coded by Drel-->
+	
+	<!--LIVEDEMO_00 -->
+
+	<!--<script type="text/javascript">
+	 var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-7078796-5']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();</script>-->
+      
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163823446-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163823446-1');
+</script>
+
+    
+      
+  </body>
+    <!---Facebook-->
+    <!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v6.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your customer chat code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="108934214077098"
+  theme_color="#0084ff"
+  logged_in_greeting="Hola! Como puedo ayudarte?"
+  logged_out_greeting="Hola! Como puedo ayudarte?">
+      </div>
+    <!---Chat -->
+    <!-- Google Tag Manager --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P9FT69"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P9FT69');</script>
+    
+ 
+
+    <!-- End Google Tag Manager -->
+</html>
