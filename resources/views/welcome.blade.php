@@ -42,8 +42,6 @@
     <!--<link rel="stylesheet" media="screen" href="/css/style-particle.css">-->	<!-- ParticlesCSS -->    
       <!------------------------------------------------------------------------------------------------->
 <style>
-
-
 </style>
       
       
@@ -111,6 +109,12 @@
                         <div class="unit unit-spacing-xs">
                           <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
                           <div class="unit-body"><a class="phone" href="tel:#">443-111-1547</a></div>
+                        </div>
+                      </li>
+                                               <li>
+                        <div class="unit unit-spacing-xs">
+                          <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
+                          <div class="unit-body"><a class="phone" href="tel:#">461-2250333</a></div>
                         </div>
                       </li>
                     </ul>
@@ -250,6 +254,14 @@
                           <div class="unit-body"><a class="phone" href="https://api.whatsapp.com/send?phone=524641124092&text=Hola">464-112-4092</a></div>                            
                         </div>
                       </div>
+                        
+                         <div class="footer-classic-contacts-item">
+                        <div class="unit unit-spacing-sm align-items-center">
+                          <div class="unit-left"><span class="icon mdi mdi-cellphone-android"></span></div>
+                          <div class="unit-body"><a class="phone" href="https://api.whatsapp.com/send?phone=524641124092&text=Hola">461-225-0333</a></div>                            
+                        </div>
+                      </div>
+                        
                       <div class="footer-classic-contacts-item">
                         <div class="unit unit-spacing-sm align-items-center">
                           <div class="unit-left"><span class="icon mdi mdi-email"></span></div>
@@ -296,7 +308,6 @@
                 <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required">
                 <label class="form-label" for="contact-email-2">Your E-mail</label>
               </div>
-
               <div class="form-wrap form-wrap_icon linear-icon-envelope">
                 <input class="form-input" id="contact-email-2" type="email" name="email" data-constraints="@Email @Required">
                 <label class="form-label" for="contact-email-2">Telefono</label>
@@ -355,7 +366,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-163823446-1');
 </script>
 
@@ -372,7 +382,6 @@
             version          : 'v6.0'
           });
         };
-
         (function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;

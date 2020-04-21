@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <div class="container">
                 <div class="row">
                   <div class="col-sm-8 col-md-7 col-lg-6 offset-lg-1 offset-xxl-0">
-                    <h1  style="font-size:80px;text-transform: none;"><span>&lt;JDev-S/&gt;</span></h1>
+                    <h1  style="font-size:60px;text-transform: none;"><span>&lt;JDev-S/&gt;</span></h1>
                     <h2  style="font-size:40px;" class="swiper-subtitle" data-caption-animate="fadeInLeft" data-caption-delay="300">¿Algún proyecto en mente?<br/> </h2>
                        <h3  style="font-size:30px;" class="swiper-subtitle" data-caption-animate="fadeInLeft" data-caption-delay="300">No dudes en contactarnos, estamos para ayudarte. </h3>
                 </div>
@@ -78,8 +78,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="row padding-bottom-sm-90">
                         <div class=col-sm-4>
                             <div class="contact-item margin-bottom-xs-40"><i class="icon mdi mdi-cellphone-android"  style="font-size:50px;color:#28bd25"></i>
-                                <p style="font-size:13px;"><b>Teléfono</b><br/> (464)1124092                              
-                                    <br />(443)1111547<br/><b>WhatsApp:</b><br/> +52 1 (464) 112 4092<br/>+52 1 (443) 111 1547</p>
+                                <p style="font-size:13px;"><b>Teléfono/WhatsApp</b><br/> (464)1124092                              
+                                    <br />(443)1111547<br/>(461)2250333</p>
                             </div>
                         </div>
                         <div class=col-sm-4>

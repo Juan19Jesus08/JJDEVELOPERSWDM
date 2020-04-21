@@ -14,6 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 /*RUTAS PRINCIPALES DE LA PAGINA PRINCIPAL*/
 
+Route::get('/ejemplo', function () {
+    return view('/principal/ejemplo');
+
+});
 
 Route::get('/contact', function () {
     return view('/principal/contact');
@@ -33,7 +37,7 @@ Route::get('/ensamblado', function () {
     return view('/servicios/equipo_de_computo/ensamblado');
 });
 
-Route::get('/servicio_remoto', function () {
+Route::get('/asistencia_remota', function () {
     return view('/servicios/equipo_de_computo/remoto');
 });
 

@@ -2,7 +2,7 @@
 @section('contenido')
       <section class="section swiper-container swiper-slider swiper-slider-2" id="home" data-loop="true" data-autoplay="false" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper text-sm-left">
-          <div class="swiper-slide context-dark" data-slide-bg="/images/r_alarmas5.jpg">
+          <div class="swiper-slide context-dark" data-slide-bg="/images/r_alarmas_car.jpg">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
@@ -37,7 +37,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Seguridad</h5>
-                            <p class="box-icon-classic-text">Evita tener intrusiones que no te tomen por sorpresa en tu hogar o negocio. Hazlo más seguro en todo memento .</p>
+                            <p class="box-icon-classic-text">Evita tener intrusos y que no te tomen por sorpresa en tu hogar o negocio. Hazlo más seguro en todo memento .</p>
                           </div>
                         </div>
                       </article>
@@ -80,7 +80,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Tranquilidad</h5>
-                            <p class="box-icon-classic-text">Sal de tu casa o negocio con la tranquilidad de que se queda protegido en todo momento, inclusive si cortan la luz eléctrica.</p>
+                            <p class="box-icon-classic-text">Sal de tu casa o negocio con la tranquilidad de que  queda protegido en todo momento, inclusive si cortan la luz eléctrica.</p>
                           </div>
                         </div>
                       </article>
@@ -176,7 +176,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="alarmas_alambrico" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Instalación de alarmas vía alámbrica</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -219,7 +219,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="alarmas_inalambrico" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Instalación de alarmas vía inalámbrica</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -260,7 +260,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="monitoreo_aplicacion" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Monitoreo por aplicación</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>

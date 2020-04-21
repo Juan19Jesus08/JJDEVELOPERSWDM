@@ -73,13 +73,13 @@ a[x-apple-data-detectors] {
           <td style="padding:0;Margin:0;background-color:#FFFFFF;" bgcolor="#ffffff" align="center"> 
            <table class="es-header-body" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;background-color:#FFFFFF;" width="600" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center"> 
              <tr style="border-collapse:collapse;"> 
-              <td style="padding:0;Margin:0;padding-top:20px;padding-bottom:20px;background-color:#B6D7A8;" bgcolor="#b6d7a8" align="left"> 
+              <td style="padding:0;Margin:0;padding-top:20px;padding-bottom:20px;background-color:#0066BB;" bgcolor="#0066BB" align="left"> 
                <table width="100%" cellspacing="0" cellpadding="0" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;"> 
                  <tr style="border-collapse:collapse;"> 
                   <td class="es-m-p0r" width="600" valign="top" align="center" style="padding:0;Margin:0;"> 
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;"> 
                      <tr style="border-collapse:collapse;"> 
-                      <td style="padding:0;Margin:0;font-size:0px;" align="center"><img class="adapt-img" src="https://eslnkn.stripocdn.email/content/guids/CABINET_5c3e1f5793ab2c4996a8412c7644beeb/images/57091586479094509.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;" width="192" height="50"></td> 
+                      <td style="padding:0;Margin:0;font-size:0px;" align="center"><img class="adapt-img" src="https://eslnkn.stripocdn.email/content/guids/CABINET_5c3e1f5793ab2c4996a8412c7644beeb/images/80711587421753615.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;" width="305"></td> 
                      </tr> 
                    </table></td> 
                  </tr> 
@@ -124,7 +124,7 @@ a[x-apple-data-detectors] {
                   <td width="167" align="left" style="padding:0;Margin:0;"> 
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;"> 
                      <tr style="border-collapse:collapse;"> 
-                      <td style="padding:0;Margin:0;font-size:0px;" align="center"><img class="adapt-img" src="https://eslnkn.stripocdn.email/content/guids/CABINET_5c3e1f5793ab2c4996a8412c7644beeb/images/85271586475963627.jpg" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;" width="167" height="111"></td> 
+                      <td style="padding:0;Margin:0;font-size:0px;" align="center"><img class="adapt-img" src="https://eslnkn.stripocdn.email/content/guids/CABINET_5c3e1f5793ab2c4996a8412c7644beeb/images/85271586475963627.jpg" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;" width="167"></td> 
                      </tr> 
                    </table></td> 
                  </tr> 
@@ -152,10 +152,10 @@ a[x-apple-data-detectors] {
                       <td style="padding:0;Margin:0;padding-top:20px;font-size:0px;" align="left"> 
                        <table class="es-table-not-adapt es-social" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;"> 
                          <tr style="border-collapse:collapse;"> 
-                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:10px;"><img title="Facebook" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/facebook-circle-colored.png" alt="Fb" width="32" height="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
-                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:10px;"><img title="Twitter" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/twitter-circle-colored.png" alt="Tw" width="32" height="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
-                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:10px;"><img title="Instagram" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/instagram-circle-colored.png" alt="Inst" width="32" height="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
-                          <td valign="top" align="center" style="padding:0;Margin:0;"><img title="Youtube" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/youtube-circle-colored.png" alt="Yt" width="32" height="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
+                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:10px;"><img title="Facebook" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/facebook-circle-colored.png" alt="Fb" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
+                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:10px;"><img title="Twitter" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/twitter-circle-colored.png" alt="Tw" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
+                          <td valign="top" align="center" style="padding:0;Margin:0;padding-right:10px;"><img title="Instagram" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/instagram-circle-colored.png" alt="Inst" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
+                          <td valign="top" align="center" style="padding:0;Margin:0;"><img title="Youtube" src="https://eslnkn.stripocdn.email/content/assets/img/social-icons/circle-colored/youtube-circle-colored.png" alt="Yt" width="32" style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;"></td> 
                          </tr> 
                        </table></td> 
                      </tr> 
@@ -174,7 +174,7 @@ a[x-apple-data-detectors] {
                       <td align="left" style="padding:0;Margin:0;"><h4 style="Margin:0;line-height:25px;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;color:#333333;font-size:21px;">Contáctanos</h4></td> 
                      </tr> 
                      <tr style="border-collapse:collapse;"> 
-                      <td align="left" style="padding:0;Margin:0;padding-top:5px;"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-size:12px;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:18px;color:#666666;">T<span style="color:#000000;">el1 : 464-112-4092<br>Tel2 : 443-111-1547<br>Tel3 : pablo<br><a href="mailto:serviclientedev@jjdeveloperswdm.com" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'Open Sans', sans-serif;font-size:12px;text-decoration:underline;color:#0B5394;">serviclientedev@jjdeveloperswdm.com</a></span></p></td> 
+                      <td align="left" style="padding:0;Margin:0;padding-top:5px;"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-size:12px;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:18px;color:#666666;">T<span style="color:#000000;">el1 : 464-112-4092<br>Tel2 : 443-111-1547<br>Tel3 : 461-225-0333<br><a href="" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:'Open Sans', sans-serif;font-size:12px;text-decoration:underline;color:#0B5394;">serviclientedev@jjdeveloperswdm.com</a></span></p></td> 
                      </tr> 
                    </table></td> 
                  </tr> 
@@ -189,7 +189,7 @@ a[x-apple-data-detectors] {
                   <td width="270" align="left" style="padding:0;Margin:0;"> 
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;"> 
                      <tr style="border-collapse:collapse;"> 
-                      <td style="padding:0;Margin:0;padding-top:40px;padding-right:40px;font-size:0px;" align="center"><img class="adapt-img" src="https://eslnkn.stripocdn.email/content/guids/CABINET_5c3e1f5793ab2c4996a8412c7644beeb/images/57091586479094509.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;" width="147" height="38"></td> 
+                      <td style="padding:0;Margin:0;font-size:0px;" align="center"><img class="adapt-img" src="https://eslnkn.stripocdn.email/content/guids/CABINET_5c3e1f5793ab2c4996a8412c7644beeb/images/80711587421753615.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;" width="270"></td> 
                      </tr> 
                    </table></td> 
                  </tr> 
@@ -203,7 +203,7 @@ a[x-apple-data-detectors] {
                       <td align="left" style="padding:0;Margin:0;padding-top:20px;"><h4 style="Margin:0;line-height:25px;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;color:#333333;font-size:21px;">Nuestros servicios</h4></td> 
                      </tr> 
                      <tr style="border-collapse:collapse;"> 
-                      <td align="left" style="padding:0;Margin:0;padding-top:5px;"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-size:16px;font-family:'Open Sans', sans-serif;line-height:24px;color:#000000;"><span style="font-size:12px;font-family:arial, 'helvetica neue', helvetica, sans-serif;">Desarrollo de software<br>Seguridad y vigilancia<br>Equipo de cómputo</span><br><span style="font-size:12px;font-family:arial, 'helvetica neue', helvetica, sans-serif;">Instalación de redes</span></p></td> 
+                      <td align="left" style="padding:0;Margin:0;padding-top:5px;"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-size:16px;font-family:'Open Sans', sans-serif;line-height:24px;color:#000000;"><span style="font-size:12px;font-family:arial, 'helvetica neue', helvetica, sans-serif;">Desarrollo de software<br>Soluciones computacionales<br>Instalación de red<br>Seguridad y vigilancia<br><br></span><br><br></p></td> 
                      </tr> 
                    </table></td> 
                  </tr> 

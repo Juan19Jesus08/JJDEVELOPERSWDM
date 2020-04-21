@@ -248,7 +248,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="optimo" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Optimización</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -288,7 +288,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="dispositivos" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Instalación y configuración de dispositivos</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -326,7 +326,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="configuracion_instalacion" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Configuración e instalación</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -358,7 +358,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="limpieza" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Limpieza de error en sistema operativo</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -404,7 +404,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="eliminacion_virus" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Eliminación de virus</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>

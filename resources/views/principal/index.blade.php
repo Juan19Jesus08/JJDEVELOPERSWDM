@@ -127,7 +127,7 @@
                     <div class="box-info">
                     <div class="unit flex-column flex-md-row align-items-center">
                       <div class="unit-left">
-                        <div class="box-info-figure"><img src="/images/r_desktop3.jpg" alt="" width="326" height="390"/>
+                        <div class="box-info-figure"><img src="/images/r_escritorio.jpg" alt="" width="326" height="390"/>
                         </div>
                       </div>
                       <div class="unit-body">

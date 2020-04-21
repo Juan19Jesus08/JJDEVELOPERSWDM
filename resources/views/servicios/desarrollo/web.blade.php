@@ -301,7 +301,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
  <div class="modal modal-1" id="aplicaciones_web" tabindex="-1" role="dialog" >  
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Aplicaciones web</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -341,7 +341,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
  <div class="modal modal-1" id="tiendas_online" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Tiendas online</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -381,7 +381,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
  <div class="modal modal-1" id="web_corporativa" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Web corporativa</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -427,7 +427,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="blogs" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Blogs</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -473,7 +473,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="punto_venta" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Punto de venta</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -513,7 +513,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="sistema_cliente" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Sistema control de clientes</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -551,7 +551,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="plataforma_educativa" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Plataforma educativa</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
@@ -588,7 +588,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
 <div class="modal modal-1" id="pagina_dinamica" tabindex="-1" role="dialog">
      <div class="modal-dialog" role="document">
          <div class="modal-content">
-            <div class="modal-header" style="background:#28bd25; ">
+            <div class="modal-header" style="background:#0066BB; ">
                <h5 style="color:white;">Página web dinámica</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
