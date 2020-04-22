@@ -19182,7 +19182,7 @@ h3 + .tabs-custom {
 	padding-top: 10px;
 	justify-content: center;
 	border-top: 1px solid #0066BB;
-    border:center;
+    
 }
 
 @media (max-width: 991.98px) {
@@ -19891,7 +19891,7 @@ h3 + .tabs-custom {
 }
 
 .card-body .info_card{
-    font-family: cursive;
+    font-family: Roboto;
 }
 
 .card-classic .card-body {
