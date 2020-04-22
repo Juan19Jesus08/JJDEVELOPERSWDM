@@ -92,7 +92,7 @@
           <div class="row row-40 flex-lg-row-reverse">
             <div class="col-lg-4">
               <div class="nav-tabs-2-button">
-                <h5 class="nav-tabs-2-title" style="font-size:40px;">Servicios </h5><span class="icon mdi mdi-arrow-down" data-custom-scroll-to="service"></span>
+                <h5 class="nav-tabs-2-title" style="font-size:30px;">Servicios </h5><span class="icon mdi mdi-arrow-down" data-custom-scroll-to="service"></span>
               </div>
               <ul class="nav nav-tabs-2">
                 <li class="nav-item-2 wow fadeInRight" role="presentation"><a class="active" href="#tabs-8-1" data-toggle="tab">Desarrollo de software</a></li>
