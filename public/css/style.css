@@ -13799,7 +13799,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap::-webkit-scrollbar-thumb {
-	background: #6c757d;
+	background: #dee2e6;
 	border: none;
 	border-radius: 0;
 	opacity: .2;
