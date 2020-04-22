@@ -317,7 +317,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Diágnostico y reparación</h5>
+               <h5 style="color:white;margin-left:10%; ">Diágnostico y reparación</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -350,7 +350,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Configuración e instalación</h5>
+               <h5 style="color:white;margin-left:5%; ">Configuración e instalación</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -382,7 +382,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Recuoeración de datos</h5>
+               <h5 style="color:white;margin-left:10%; ">Recuperación de datos</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -414,7 +414,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Eliminación de virus</h5>
+               <h5 style="color:white;margin-left:15%; ">Eliminación de virus</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -447,7 +447,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Asistencia en sitio</h5>
+               <h5 style="color:white;margin-left:15%; ">Asistencia en sitio</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">

@@ -216,7 +216,7 @@ Nos ajustamos a tu presupuesto </h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Soluciones personalizadas</h5>
+               <h5 style="color:white;margin-left:10%; ">Soluciones para el hogar</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -227,7 +227,7 @@ Nos ajustamos a tu presupuesto </h4>
                           </div>   
                                 <div class="unit-body" style="margin-left:0;">
                                    <div class="box-info-content">
-                                      <h5 class="box-info-title" >¿Qué es una solución personalizada?</h5>
+                                      <h5 class="box-info-title" >¿Qué es una solución para el hogar?</h5>
                                    </div>
                            </div>
                       </div>
@@ -248,7 +248,7 @@ Nos ajustamos a tu presupuesto </h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Soluciones para el trabajo</h5>
+               <h5 style="color:white;margin-left:10%; ">Soluciones para el trabajo</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -280,7 +280,7 @@ Nos ajustamos a tu presupuesto </h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Solución para gamers</h5>
+               <h5 style="color:white;margin-left:10%; ">Solución para gamers</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -312,7 +312,7 @@ Nos ajustamos a tu presupuesto </h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Soluciones personalizadas</h5>
+               <h5 style="color:white;margin-left:10%; ">Soluciones personalizadas</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">

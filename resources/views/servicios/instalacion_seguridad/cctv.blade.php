@@ -238,7 +238,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Instalación de equipos CCTV vía alámbrica</h5>
+               <h5 style="color:white;margin-left:5%;">Instalación de equipos CCTV vía alámbrica</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -280,7 +280,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Instalación de equipos CCTV vía inalámbrica</h5>
+               <h5 style="color:white;margin-left:5%;">Instalación de equipos CCTV vía inalámbrica</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -322,7 +322,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Visualización a través de internet</h5>
+               <h5 style="color:white;margin-left:5%;">Visualización a través de internet</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -354,7 +354,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Visualización a través de una pantalla</h5>
+               <h5 style="color:white;margin-left:10%;">Visualización a través de una pantalla</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -386,7 +386,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Almacenamiento</h5>
+               <h5 style="color:white;margin-left:20%;">Almacenamiento</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">

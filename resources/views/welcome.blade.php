@@ -149,7 +149,7 @@
                         <ul class="rd-navbar-dropdown">
                             <li class="rd-nav-item2"><a class="rd-nav-link2" href="/analisis_reparacion_computo">Análisis y reparación de cómputo</a>
                             <li class="rd-nav-item2"><a class="rd-nav-link2" href="/ensamblado">Ensamblado</a>
-                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/servicio_remoto">Asistencia remota</a>
+                            <li class="rd-nav-item2"><a class="rd-nav-link2" href="/asistencia_remota">Asistencia remota</a>
                       </ul>
                         
                       </li>

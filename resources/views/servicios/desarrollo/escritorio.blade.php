@@ -198,7 +198,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Punto de venta</h5>
+               <h5 style="color:white;margin-left:25%; ">Punto de venta</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -238,7 +238,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Sistema control de clientes</h5>
+               <h5 style="color:white;margin-left:10%; ">Sistema control de clientes</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -276,7 +276,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Plataforma educativa</h5>
+               <h5 style="color:white;margin-left:10%; ">Plataforma educativa</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -313,7 +313,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Reportes</h5>
+               <h5 style="color:white;margin-left:35%; ">Reportes</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -357,7 +357,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;">Soluciones de escritorio</h5>
+               <h5 style="color:white;margin-left:10%; ">Soluciones de escritorio</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
