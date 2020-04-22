@@ -13141,7 +13141,7 @@ html.tablet .ui-to-top {
 .rd-navbar-toggle span:after, .rd-navbar-toggle span:before, .rd-navbar-toggle span {
 	width: 30px;
 	height: 2px;
-	background-color: #151515;
+	background-color: #fbfbfb;
 	backface-visibility: hidden;
 	border-radius: 0;
 }
@@ -13799,7 +13799,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap::-webkit-scrollbar-thumb {
-	background: #0066BB;
+	background: #6c757d;
 	border: none;
 	border-radius: 0;
 	opacity: .2;
