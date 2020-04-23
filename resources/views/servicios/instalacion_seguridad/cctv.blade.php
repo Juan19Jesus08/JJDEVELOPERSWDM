@@ -306,7 +306,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                      <br/>
                                      <br/>
                                     Ahorro en costo de instalación<br/>
-                                     Fácil inctalación<br/>
+                                     Fácil instalación<br/>
                                      Mayor discreción<br/>
                                      Mayor flexibilidad en la ubicación
                                  </p>
@@ -371,8 +371,8 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Para que el video se vea con una una buena calidad, se necesita contar con una buena pantalla cpara que se ajuste a tus necesidades.<br/>                            
-                                    Con una pantalla conectada a un sistema de videovigolancia, puede permitirle monitorear varias cámaras a la ves en la misma pantalla y mantener vigilado lo que ocurre en su propiedad. 
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Para que el video se vea con una buena calidad, se necesita contar con una buena pantalla para que se ajuste a tus necesidades.<br/>                            
+                                    Con una pantalla conectada a un sistema de videovigolancia, puede permitirle monitorear varias cámaras a la ves y mantener vigilado lo que ocurre en su propiedad. 
                                 </p>
                                </div>
                           </div> 

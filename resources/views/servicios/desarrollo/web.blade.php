@@ -38,7 +38,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Mayor visibilidad</h5>
-                            <p class="box-icon-classic-text">Hazte notar y llega a un público amplio. Expande tus fronteras y capta la atencion de clientes de otros lugares. </p>
+                            <p class="box-icon-classic-text">Hazte notar y llega a un público amplio. Expande tus fronteras y capta la atención de clientes de otros lugares. </p>
                           </div>
                         </div>
                       </article>
@@ -68,7 +68,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Promover tus servicios</h5>
-                            <p class="box-icon-classic-text">Aprovecha las herramientas de la tecnologia. Proporciona descripciones detalladas de tus productos y/o servicios.</p>
+                            <p class="box-icon-classic-text">Aprovecha las herramientas de la tecnología. Proporciona descripciones detalladas de tus productos y/o servicios.</p>
                           </div>
                         </div>
                       </article>
@@ -82,7 +82,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Ahorra dinero</h5>
-                            <p class="box-icon-classic-text"> No gastes de más por publicidad. Apoyate de los beneficios que brinda la tecnología y ahorra tu dinero .</p>
+                            <p class="box-icon-classic-text"> No gastes de más por publicidad. Apóyate de los beneficios que brinda la tecnología y ahorra tu dinero .</p>
                           </div>
                         </div>
                       </article>
@@ -328,7 +328,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  </p>
                                 <hr>
                                   <p style=" text-align: justify; line-height: 1.5; font-size:12px;">
-                                  Otra gran ventaja es que <b><u>no se necesita de un equipo potente</u></b> para hacer uso de ésta, ya que la carga no la recibe el equipo desde donde se esta ejecutando, sino más bien la carga es recibida por el <b>servidor donde esta alojada</b>.
+                                  Otra gran ventaja es que <b><u>no se necesita de un equipo potente</u></b> para hacer uso de ésta, ya que la carga no la recibe el equipo desde donde se está ejecutando, sino más bien la carga es recibida por el <b>servidor donde está alojada</b>.
                                   </p>
                                </div>
                           </div> 
@@ -408,7 +408,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                 <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                     <b>Ventajas</b>
                                     <br/>
-                                    Otorga presencia en Internet, más alla de la típica página de <b>Facebook</b>;
+                                    Otorga presencia en Internet, más allá de la típica página de <b>Facebook</b>;
                                     Mejora la <b>competitividad</b> ante competidores que no cuenten con página web propia;
                                     Brinda <b>prestigio</b>;
                                     Cuando oigan hablar de tu empresa, es probable que lo primero que hagan sea <b>buscarla en Internet</b>;
@@ -490,7 +490,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  </p>
                                 <hr>
                                 <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                   El <b>punto de venta</b> se compone de varios componentes, basicamente <b>hardware</b> y <b>software</b>. El software de éste puede ser hecho a la medida (desarrollo especial y único para una empresa) o comercial (desarrollados para giros específicos de negocio).
+                                   El <b>punto de venta</b> se compone de varios componentes, básicamente <b>hardware</b> y <b>software</b>. El software de éste puede ser hecho a la medida (desarrollo especial y único para una empresa) o comercial (desarrollados para giros específicos de negocio).
                                 </p>
                                </div>
                           </div> 
@@ -526,8 +526,8 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                  Éste ayuda a mejorar los servicios de <b>atención de cliente</b>, asi como mejorar la <b>comunicación</b> con el cliente.
-                                Estos software nos ayudan en el día a día con la <b>gestión</b>, <b>monitorización</b>, etc de los datos e información que está presente en la empresa.
+                                  Éste ayuda a mejorar los servicios de <b>atención de cliente</b>, así como mejorar la <b>comunicación</b> con el cliente.
+                                Este software nos ayuda en el día a día con la <b>gestión</b>, <b>monitorización</b>, etc de los datos e información que está presente en la empresa.
                                  </p>
                                
                                </div>

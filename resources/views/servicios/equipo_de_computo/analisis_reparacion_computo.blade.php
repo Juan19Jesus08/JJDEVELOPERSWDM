@@ -51,7 +51,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Actualizado</h5>
-                            <p class="box-icon-classic-text">Manten tu equipo actualizado. Corrige esos errores de software antiguos y hazlo menos susceptible frente a ataques.</p>
+                            <p class="box-icon-classic-text">Mantén tu equipo actualizado. Corrige esos errores de software antiguos y hazlo menos susceptible frente a ataques.</p>
                           </div>
                         </div>
                       </article>
@@ -302,7 +302,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Es el conjunto de actividades dirigidas a proteger los equipos de computo de posibles fallas, utilizando métodos de limpieza física y métodos basados en el uso de software para así obtener un optimo desempeño de los equipos.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Es el conjunto de actividades dirigidas a proteger los equipos de cómputo de posibles fallas, utilizando métodos de limpieza física y métodos basados en el uso de software para así obtener un óptimo desempeño de los equipos.
                                  </p>
                                <hr>
                                </div>
@@ -367,7 +367,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">La configuración de un programa o elemento del equipo de computo esta por lo general ligada a la instalación del mismo. Esta configuración será lo que determine cómo, a través de que medios y con qué recursos funcionará el elemento.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">La configuración de un programa o elemento del equipo de cómputo está por lo general ligada a la instalación del mismo. Esta configuración será lo que determine cómo, a través de que medios y con qué recursos funcionará el elemento.
                                  </p>
                                  <hr>
                                </div>

@@ -35,7 +35,7 @@
                 <div class="row">
                   <div class="col-sm-8 col-md-7 col-xl-6 offset-lg-1 offset-xxl-0">
                     <h3 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInLeft" data-caption-delay="100">Soluciones computacionales</span></h3>
-                    <h5 class="swiper-subtitle" data-caption-animate="fadeInUp" data-caption-delay="0">Que tu preocupación solo sean tus clientes, nos encargamos de tus equipos.</h5>
+                    <h5 class="swiper-subtitle" data-caption-animate="fadeInUp" data-caption-delay="0">Que tu preocupación sólo sean tus clientes, nos encargamos de tus equipos.</h5>
                     <div class="button-wrap oh"><a class="button button-lg button-primary button-winona button-shadow-2"  href="/contact/#cotizacion" >Comienza!!</a></div>
                   </div>
                 </div>
@@ -215,7 +215,7 @@
                 <div class="box-info">
                     <div class="unit flex-column flex-md-row align-items-center">
                       <div class="unit-left">
-                        <div class="box-info-figure"><img src="/images/r_red.jpg" alt="" width="326" height="390"/>
+                        <div class="box-info-figure"><img src="/images/r_red2_inicio.jpg" alt="" width="326" height="390"/>
                         </div>
                       </div>
                       <div class="unit-body">
@@ -259,7 +259,7 @@
                       <div class="unit-body">
                         <div class="box-info-content">
                           <h5 class="box-info-title">Instalación de alarmas</h5>
-                          <p class="box-info-text">La alarma es una tecnologia enfocada a la sefuridad de casas y de negocios. Pueden advertir de un peligro de forma automática. Una instalacion de alarma te da el control las 24 horas del día sin importar el lugar y la distancia en que te encuentres, siempre tendrás protegido tu establecimiento u hogar.</p><a class="box-info-link" href="/alarmas">Leer Más</a>
+                          <p class="box-info-text" style="  text-align: justify;">La alarma es una tecnología enfocada a la seguridad de casas y de negocios. Pueden advertir de un peligro de forma automática. Una instalacion de alarma te da el control las 24 horas del día sin importar el lugar y la distancia en que te encuentres, siempre tendrás protegido tu establecimiento u hogar.</p><a class="box-info-link" href="/alarmas">Leer Más</a>
                         </div>
                       </div>
                     </div>

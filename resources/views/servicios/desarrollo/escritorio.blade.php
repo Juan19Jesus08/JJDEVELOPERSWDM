@@ -99,7 +99,7 @@
                       <div class="unit-left"><span class="services-classic-icon linearicons-file-charts " style="font-size:50px;"></span></div>
                       <div class="unit-body">
                         <h5 class="services-classic-title"><a>Reportes</a></h5>
-                        <p class="services-classic-text">Mantente informado del estado de tu empresa con estadisticas y graficos.<br/><br/></p>
+                        <p class="services-classic-text">Mantente informado del estado de tu empresa con estadísticas y gráficos.<br/><br/></p>
                       </div>
                     </div>
                   </div>
@@ -223,7 +223,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  </p>
                                 <hr>
                                 <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                   El <b>punto de venta</b> se compone de varios componentes, basicamente <b>hardware</b> y <b>software</b>. El software de éste puede ser hecho a la medida (desarrollo especial y único para una empresa) o comercial (desarrollados para giros específicos de negocio).
+                                   El <b>punto de venta</b> se compone de varios componentes, básicamente <b>hardware</b> y <b>software</b>. El software de éste puede ser hecho a la medida (desarrollo especial y único para una empresa) o comercial (desarrollados para giros específicos de negocio).
                                 </p>
                                </div>
                           </div> 
@@ -259,8 +259,8 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                  Éste ayuda a mejorar los servicios de <b>atención de cliente</b>, asi como mejorar la <b>comunicación</b> con el cliente.
-                                Estos software nos ayudan en el día a día con la <b>gestión</b>, <b>monitorización</b>, etc de los datos e información que está presente en la empresa.
+                                  Éste ayuda a mejorar los servicios de <b>atención de cliente</b>, así como mejorar la <b>comunicación</b> con el cliente.
+                                Este software nos ayuda en el día a día con la <b>gestión</b>, <b>monitorización</b>, etc de los datos e información que está presente en la empresa.
                                  </p>
                                
                                </div>
@@ -338,9 +338,9 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                     Beneficios de tener una aplicación de reportes en tu empresa<br/>
+                                     Beneficios de tener una aplicación de reportes en tu empresa:<br/>
                                      Mayor comunicación.<br/>
-                                     Incremento .<br/>
+                                     Incremento.<br/>
                                      Mayor competividad.<br/>
                                      Precisión en el área de finanzas.
 

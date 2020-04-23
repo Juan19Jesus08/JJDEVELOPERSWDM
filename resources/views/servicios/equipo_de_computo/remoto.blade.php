@@ -307,11 +307,11 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                      <div class="card-body " >                      
                             <div class="info_card">
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">
-                                   Los dispositivos o periféricos son elementos de hardware que permiten el ingreso y salida de datos de la computadora. Algunos periféricos no requieren de una instalación especial, basta con  comenzarán a funcionar. como lo son :
+                                   Los dispositivos o periféricos son elementos de hardware que permiten el ingreso y salida de datos de la computadora. Algunos periféricos no requieren de una instalación especial, basta con conectarlos y de inmediato comenzarán a funcionar. como lo son : mouse, monitor, teclado, entre otros.
                                  </p>
                                  <hr>
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">
-                                <br/>mouse, monitor, teclado, entre otros.<br/>
+                               
                                 Al contrario de los periféricos antes mencionados, hay algunos otros que si requieren de una instalación, si llegaran a configurarse de una mala manera, éstos pueden llegar a presentar problemas.<br/> Los dispositivos más comunes son:<br/> impresora, escáner, conexiones de video, lectores biométricos.
 
                                 </p>

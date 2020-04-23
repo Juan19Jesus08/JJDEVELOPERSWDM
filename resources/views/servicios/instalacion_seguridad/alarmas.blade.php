@@ -80,7 +80,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Tranquilidad</h5>
-                            <p class="box-icon-classic-text">Sal de tu casa o negocio con la tranquilidad de que  queda protegido en todo momento, inclusive si cortan la luz eléctrica.</p>
+                            <p class="box-icon-classic-text">Sal de tu casa o negocio con la tranquilidad de que quede protegido en todo momento, inclusive si cortan la luz eléctrica.</p>
                           </div>
                         </div>
                       </article>
@@ -138,7 +138,7 @@
                      <div class="unit-left"><span class="services-classic-icon linearicons-laptop-phone  " style="font-size:50px;"></span></div>
                   <div class="unit-body">
                     <h5 class="services-classic-title"><a>Monitoreo por aplicación</a></h5>
-                    <p class="services-classic-text">Puedes ver lo que ocurre por medio de una aplicación en tu dispositivo movil o en tu equipo.<br/>
+                    <p class="services-classic-text">Puedes ver lo que ocurre por medio de una aplicación en tu dispositivo móvil o en tu equipo.<br/>
                       <br/>
                       </p>
                     </div>

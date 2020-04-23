@@ -66,7 +66,7 @@
                           </div>
                           <div class="unit-body">
                             <h5 class="box-icon-classic-title">Promover tus servicios</h5>
-                            <p class="box-icon-classic-text">Aprovecha las herramientas de la tecnologia. Proporciona descripciones detalladas de tus productos y/o servicios.</p>
+                            <p class="box-icon-classic-text">Aprovecha las herramientas de la tecnología. Proporciona descripciones detalladas de tus productos y/o servicios.</p>
                           </div>
                         </div>
                       </article>
@@ -127,7 +127,7 @@
                      <div class="unit-left"><span class="services-classic-icon linearicons-dumbbell" style="font-size:50px;"></span></div>
                   <div class="unit-body">
                     <h5 class="services-classic-title"><a >Gimnasio</a></h5>
-                    <p class="services-classic-text">Haz que tus clientes puedan realizar pagos, armar sus horario de entrenamiento y ver la información de tus servicios.</p>
+                    <p class="services-classic-text">Haz que tus clientes puedan realizar pagos, armar sus horarios de entrenamiento y ver la información de tus servicios.</p>
                     </div>
                   </div>
             </div>
@@ -160,7 +160,7 @@
                      <div class="unit-left"><span class="services-classic-icon linearicons-chef    " style="font-size:50px;"></span></div>
                   <div class="unit-body">
                     <h5 class="services-classic-title"><a>Restaurantes</a></h5>
-                    <p class="services-classic-text">Ayda a tus clientes a realizar sus reservaciones de una forma más fácil y a ordenar su comida a domicilio.<br/><br/></p>
+                    <p class="services-classic-text">Ayuda a tus clientes a realizar sus reservaciones de una forma más fácil y a ordenar su comida a domicilio.<br/><br/></p>
                     </div>
                   </div>
                
@@ -172,7 +172,7 @@
                 <div class="efecto_puntero">
                <article class="services-classic" data-toggle="modal" data-target="#institucion_educativa">
                <div class="card mb-2">
-              <img class="card-img-top" src="/images/r_educacion.jpg"
+              <img class="card-img-top" src="/images/r_education_movil.jpg"
                 alt="Card image cap">
               <div class="card-body">
                      <div class="unit-left"><span class="services-classic-icon linearicons-graduation-hat  " style="font-size:50px;"></span></div>
@@ -345,7 +345,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                              Disponer de una aplicación móvil para tu gimnasio puede ayudarte a ser descubierto por nuevos clientes. Además de que es una excelente herramienta para llevar una mejor relación con tus usuarios, pudiendo dar a conocer información acerca del establecimiento, tal como: horarios, servicios ofrecidos, avisos, costo de los servicios. De igual manera, permitir ver a los usuarios el estus de su suscripción, establecer y ver el seguimiento de rutinas de entrenamiento, definir dietas, entre muchas otras cosas más.
+                              Disponer de una aplicación móvil para tu gimnasio puede ayudarte a ser descubierto por nuevos clientes. Además de que es una excelente herramienta para llevar una mejor relación con tus usuarios, pudiendo dar a conocer información acerca del establecimiento, tal como: horarios, servicios ofrecidos, avisos, costo de los servicios. De igual manera, permitir ver a los usuarios el estatus de su suscripción, establecer y ver el seguimiento de rutinas de entrenamiento, definir dietas, entre muchas otras cosas más.
                                  </p>
                                </div>
                           </div> 
@@ -377,7 +377,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                               <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación de <b>tienda online</b> esta diseñada para que los clientes puedan <b>observar</b> y <b>comprar</b> productos o servicios que la empresa ofrezca. 
+                               <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación de <b>tienda online</b> está diseñada para que los clientes puedan <b>observar</b> y <b>comprar</b> productos o servicios que la empresa ofrezca. 
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                Estudios demuestran que los usuarios utilizan sus smartphones los 7 días de la semana, los 365 días del año para ver productos o servicios y comprar.  
@@ -420,8 +420,8 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                      <div class="card-body " >                      
                             <div class="info_card">
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">
-                                   Una aplicación móvil de un <b>restaurante</b> es una herramienta para que tus clientes puedan comer los platillos de una manera más fácil así <b>solucionando problemas</b> que se presenten.
-                                 </p>
+                                   Una aplicación móvil de un <b>restaurante</b> es una herramienta para que tus clientes puedan consumir sus platillos de una manera más fácil.
+                                </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                     Ventajas<br/>
@@ -451,7 +451,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                     <div class="card mb-2">
                        <div class="unit flex-column flex-md-row align-items-center">
                           <div class="unit-left">
-                             <img class="box-info-figure" src="/images/r_educacion.jpg" width="200px" height="200px">
+                             <img class="box-info-figure" src="/images/r_education_movil.jpg" width="200px" height="200px">
                           </div>   
                                 <div class="unit-body" style="margin-left:0;">
                                    <div class="box-info-content">
@@ -467,7 +467,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                     Ventajas<br/>
                                      Permiten el aprendizaje en cualquier contexto, dentro y fuera del aula. La vida se convierte en el escenario perfecto para el aprendizaje.<br/>
-                                      influyan positivamente sobre la motivación del alumnado.<br/>
+                                      influyen positivamente sobre la motivación del alumnado.<br/>
                                       permiten crear un entorno de aprendizaje más personalizado, adaptado a las necesidades concretas de cada alumno, fomentando el aprendizaje auto-dirigido.<br/>
                                     
                                  </p>
@@ -507,7 +507,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                     Ventajas.<br/>
                                      Consulta datos clínicos de tus pacientes e indicadores de gestión de calidad dondequiera que estés.<br/>
                                      Permite a tus pacientes sacar una cita sin formarse.<br/>
-                                     Recuerdale a tus pacientes que dia y a que hora les toca su próxima cita.<br/>
+                                     Recuerdale a tus pacientes que dáa y a que hora les toca su próxima cita.<br/>
                                      Mejora la atención del paciente.<br/>
                                      Mayor seguridad en los historiales clínicos.<br/>
                                      Observar la informacion general y horarios.<br/>
@@ -541,13 +541,13 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación móvil de un <b>catálogo de productos</b> es una herramienta diseñada para que tus clientes puedan ver los productos que ofreces en el lugar que este las 24 hrs del dia, 7 dias de la semana y 365 dias del año.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación móvil de un <b>catálogo de productos</b> es una herramienta diseñada para que tus clientes puedan ver los productos que ofreces en el lugar donde se encuentren, las 24 hrs del día, 7 días de la semana y 365 días del año.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                     Ventajas<br/>
                                      Incrementa tus ganacias.<br/>
-                                     Incrementaras el numero de clientes.<br/>
+                                     Incrementarás el número de clientes.<br/>
                                      Geolocaliza en el mapa tu local, con indicaciones GPS para que los nuevos clientes no se pierdan.<br/>
                                      Comunicación con el cliente.
                                 </p>
@@ -580,7 +580,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación para <b>concesionarios</b> es una herramienta diseñada para para concretar citas, realizar personalizaciones de vehículos, ofrecer un catálogo con imágenes y descripciones e incluso enviar presupuestos y facturas.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación de <b>concesionarios</b> es una herramienta diseñada para para concretar citas, realizar personalizaciones de vehículos, ofrecer un catálogo con imágenes y descripciones e incluso enviar presupuestos y facturas.
  
                                  </p>
                                  <hr>

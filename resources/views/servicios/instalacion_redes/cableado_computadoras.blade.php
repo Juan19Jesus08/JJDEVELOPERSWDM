@@ -171,7 +171,7 @@
               <div class="card-body">
                      <div class="unit-left"><span class="services-classic-icon linearicons-wifi  " style="font-size:50px;"></span></div>
                   <div class="unit-body">
-                    <h5 class="services-classic-title"><a >Instalación inalambrica</a></h5>
+                    <h5 class="services-classic-title"><a >Instalación inalámbrica</a></h5>
                     <p class="services-classic-text">Nos encargamos de instalar y configurar tus equipos en red vía wifi.<br/>
                       <br/>
                       </p>
@@ -192,8 +192,8 @@
               <div class="card-body">
                      <div class="unit-left"><span class="services-classic-icon linearicons-lan2 " style="font-size:50px;"></span></div>
                   <div class="unit-body">
-                    <h5 class="services-classic-title"><a href="#">Instalación alambrica</a></h5>
-                    <p class="services-classic-text">Nos encargamos de instalar y configurar tus equipos en red cableados, manteniendo la estetica.</p>
+                    <h5 class="services-classic-title"><a href="#">Instalación alámbrica</a></h5>
+                    <p class="services-classic-text">Nos encargamos de instalar y configurar tus equipos en red cableados, manteniendo la estética.</p>
                     </div>
                   </div>
                
@@ -281,7 +281,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Ya sea que usted posea una red de datos mediana o grande, o esté en proyecto de implementarla, nosotros lo asesoramos para que puede desarrollarla y explotarla de una manera óptima, de acuerdo a los requerimientos y necesidades que impliqué su rubro de negocios.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Ya sea que usted posea una red de datos mediana o grande, o esté en proyecto de implementarla, nosotros lo asesoramos para que puede desarrollarla y explotarla de una manera óptima, de acuerdo a los requerimientos y necesidades que implique su rubro de negocios.
                                  </p>
                                  <hr>
                                </div>
@@ -313,7 +313,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una red inalámbrica es aquella que posibilita la conexión de dos o más equipos entre sí, sin que intervengan cables. Estas permiten una gran movilidad a los usuarios dando grandes posibilidades de servicio y productividad.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una red inalámbrica es aquella que posibilita la conexión de dos o más equipos entre sí, sin que intervengan cables. Éstas permiten una gran movilidad a los usuarios dando grandes posibilidades de servicio y productividad.
                                  </p>
                                  <hr>
                                </div>
