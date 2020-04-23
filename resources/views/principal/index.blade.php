@@ -185,7 +185,7 @@
                       </div>
                       <div class="unit-body">
                         <div class="box-info-content">
-                          <h5 class="box-info-title">Ensamblado</h5>
+                          <h5 class="box-info-title">Armado de computadoras</h5>
                           <p class="box-info-text" style="  text-align: justify;">Una computadora ensamblada es aquella que es armada por un experto, la cual esta diseñada para cumplir las necesidades específicas de cada usuario. Tiene la misma calidad y mismo funcionamiento que una computadora de marca, la diferencia es que ésta puede ser personalizada al gusto.</p><a class="box-info-link" href="/ensamblado">Leer más</a>
                         </div>
                       </div>
