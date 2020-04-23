@@ -271,7 +271,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                <hr>
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">
                                     Tipos de optimización más comunes son: <br/>
-                                    Limpieza de archivos y programas.<br>/>
+                                    Limpieza de archivos y programas.<br>
                                     Desfragmentación de disco.<br/>
                                     Borrar datos temporales.<br/>
                                     Eliminar las tareas que se ejecutan en segundo plano.<br/>
@@ -289,7 +289,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;margin-left:10%;">Instalación y configuración de dispositivos</h5>
+               <h5 style="color:white;margin-left:10%;">Dispositivos</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -307,12 +307,12 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                      <div class="card-body " >                      
                             <div class="info_card">
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">
-                                   Los dispositivos o periféricos son elementos de hardware que permiten el ingreso y salida de datos de la computadora, éstos dan la posibilidad de aumentar la utilidad de la misma. Algunos periféricos no requieren de una instalación especial, basta con conectarlos y comenzaran a funcionar. 
+                                   Los dispositivos o periféricos son elementos de hardware que permiten el ingreso y salida de datos de la computadora. Algunos periféricos no requieren de una instalación especial, basta con  comenzarán a funcionar. como lo son :
                                  </p>
                                  <hr>
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">
-                                Entre los más comunes son: <br/>mouse, monitor, tarjeta de memoria, memoria USB, teclado.<br/>
-                                Al contrario de los periféricos antes mencionados, hay algunos otros que, si requieren de una instalación, además de que, si llegaran a configurar de una mala manera, éstos pueden llegar a presentar problemas entorpeciendo el funcionamiento de éstos.<br/> Los dispositivos más comunes son:<br/> impresora, escáner, conexiones de video, lectores biométricos.
+                                <br/>mouse, monitor, teclado, entre otros.<br/>
+                                Al contrario de los periféricos antes mencionados, hay algunos otros que si requieren de una instalación, si llegaran a configurarse de una mala manera, éstos pueden llegar a presentar problemas.<br/> Los dispositivos más comunes son:<br/> impresora, escáner, conexiones de video, lectores biométricos.
 
                                 </p>
                                </div>
@@ -359,7 +359,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;margin-left:10%;">Limpieza de error en sistema operativo</h5>
+               <h5 style="color:white;margin-left:10%;">Limpieza de errores</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -381,17 +381,6 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                   <hr>
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">
                                 Es importante corregirlos para garantizar un estado óptimo de la misma. Los errores pueden presentarse a manera de mensajes de error, bloqueos de la computadora, reinicios inesperados, alentamiento de la misma, pudiendo llegar a ser frustrante.
-                                </p>
-                                 <hr>
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">
-                                    Soluciones más comunes:<br/>
-                                    Eliminar datos de navegación;
-                                    Corregir una mala instalación del sistema operativo;
-                                    Recuperar datos perdidos;
-                                    Desinstalación de software;
-                                    Búsqueda de actualizaciones;
-                                    Desfragmentación del disco duro;
-
                                 </p>
                                </div>
                           </div> 

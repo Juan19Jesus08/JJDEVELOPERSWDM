@@ -177,14 +177,14 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;margin-left:10%;">Instalación de alarmas vía alámbrica</h5>
+               <h5 style="color:white;margin-left:10%;">Alarmas alámbricas</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
                     <div class="card mb-2">
                        <div class="unit flex-column flex-md-row align-items-center">
                           <div class="unit-left">
-                             <img class="box-info-figure" src="/images/r_camara_red.jpg" width="200px" height="200px">
+                             <img class="box-info-figure" src="/images/r_alarma_cable.jpg" width="200px" height="200px">
                           </div>   
                                 <div class="unit-body" style="margin-left:0;">
                                    <div class="box-info-content">
@@ -196,14 +196,11 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                             <div class="info_card">
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">Las alarmas son dispositivos de alerta y persuación; sus dos objetivos principales son:
                                     Alertar al propietario o personal de seguridad sobre una violación de seguridad
-                                    Activar una alerta sonora/lumínica con altos niveles de sonoridad o incandescencia (mucho ruido y/o luz) para disuadir al intruso de continuar con su actividad.
-                                    Son sistemas con un panel de control central que requiere conexión directa vía cable hacia cada sensor del sistema. Adicionalmente, cada sensor requiere alimentación provista por una central de energía general del sistema.
+                                    Activar una alerta sonora/lumínica con altos niveles de sonoridad o incandescencia para disuadir al intruso de continuar con su actividad.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                     Algunas ventajas de una instalación alámbrica son:
-                                     <br/>
-                                     <br/>
                                      Mayor velocidad de conexión<br/>
                                      Precio accesible<br/>
                                      Mayor cobertura<br/>
@@ -220,14 +217,14 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;margin-left:5%;">Instalación de alarmas vía inalámbrica</h5>
+               <h5 style="color:white;margin-left:5%;">Alarmas inalámbricas</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
                     <div class="card mb-2">
                        <div class="unit flex-column flex-md-row align-items-center">
                           <div class="unit-left">
-                             <img class="box-info-figure" src="/images/r_camara_wifi3.jpg" width="200px" height="200px">
+                             <img class="box-info-figure" src="/images/r_alarma_wifi2.jpg" width="200px" height="200px">
                           </div>   
                                 <div class="unit-body" style="margin-left:0;">
                                    <div class="box-info-content">
@@ -237,13 +234,10 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Las alarmas inalámbricas son sistemas de alarma que no necesitan cables para conectar los detectores y sensores al panel de control, sino que se comunican por señales. Las alarmas inalámbricas dan mucha libertad a la hora de contratar servicios y accesorios adicionales para las alarmas, ya que podrán acoplarse al sistema de alarma original con una simple configuración y sin necesidad de obras.
-                                 </p>
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Las alarmas inalámbricas son sistemas de alarma que no necesitan cables para conectar los detectores y sensores al panel de control, sino que se comunican por señales. Las alarmas inalámbricas dan mucha libertad.
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                     Algunas ventajas de una instalación inalámbrica son:
-                                     <br/>
-                                     <br/>
                                     Ahorro en costo de instalación<br/>
                                      Fácil inctalación<br/>
                                      Mayor discreción<br/>

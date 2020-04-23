@@ -215,7 +215,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">En la actualidad, implementar un punto de venta no es un lujo, sino una necesidad para mejorar la <b>administración</b> del negocio. Este sistema es el encargado de realizar todo el <b>proceso de venta</b>, desde la <b>captura de productos</b>, <b>emisión de comprobantes</b>, <b>control de inventario</b>, <b>emisión de reportes</b>, entre otras
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Es el encargado de realizar el <b>proceso de venta</b>, desde la <b>captura de productos</b>, <b>emisión de comprobantes</b>, <b>control de inventario</b>, <b>emisión de reportes</b>, entre otras
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
@@ -330,7 +330,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Un <b>reporte</b> es un <b>informe o una noticia</b>. Este tipo de documento (que puede ser impreso, digital, audiovisual, etc.) su función es aplicar un formato determinado a los datos para mostrarlos por medio de un diseño atractivo y que sea fácil de interpretar.  
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Un <b>reporte</b> es un <b>informe o una noticia</b> su función es aplicar un formato determinado a los datos para mostrarlos por medio de un diseño atractivo y que sea fácil de interpretar.  
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
@@ -374,11 +374,11 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una <b>solución de  escritorio</b> es una herramienta similar a una aplicación de web o móvil. Para hacer uso de ella se tiene que instalar el programa en cada computadora que se ocupe y ejecutar. 
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una <b>solución de  escritorio</b> es similar a una aplicación web o móvil. Para hacer uso de ella se tiene que instalar el programa en cada computadora. 
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                               Dependiendo la aplicación puede funcionar con internet o sin internet. La razón para tener una solución de escritorio es la necesidad de resolver un problema, ahorrar dinero y tiempo para los usuarios.
+                              La razón para tener una solución de escritorio es la necesidad de resolver un problema, ahorrar dinero y tiempo para los usuarios.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">

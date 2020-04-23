@@ -286,7 +286,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
      <div class="modal-dialog" role="document">
          <div class="modal-content">
             <div class="modal-header" style="background:#0066BB; ">
-               <h5 style="color:white;margin-left:15%; ">Soluciones moviles</h5>
+               <h5 style="color:white;margin-left:15%; ">Soluciones móviles</h5>
                <button class="close" type="button" data-dismiss="modal" aria-label="Close" aria-hidden="true"><span aria-hidden="true">×</span></button>
             </div>
                  <div class="modal-body" style="background:#F5F5F5;">
@@ -303,11 +303,9 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">El alto crecimiento de los dispositivos móviles ha provocado que desarrollar una aplicacipn móvil se convierta en una gran estrategia que pueda aportar ventajas para el negocio.
-                                 </p>
-                                 <hr>
+                                
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                Hoy en día, practicamente todos contamos con un dispositivo móvil con en el que interactuamos diariamente para realizar nuestras tareas cotidianas, ya sea compra de productos, pagar en un restaurante, grabar momentos y compartirlos, etc. Por ello, la adaptación a un entorno móvil es muy importante si nos queremos ajustar a los nuevos hábitos de los usuarios.
+                                Hoy en día, prácticamente todos contamos con un dispositivo móvil con en el que interactuamos diariamente para realizar nuestras tareas cotidianas, ya sea compra de productos, pagar en un restaurante, etc. Por ello, la adaptación a un entorno móvil es muy importante si nos queremos ajustar a los nuevos hábitos de los usuarios.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
@@ -343,7 +341,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                      <div class="card-body " >                      
                             <div class="info_card">
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">La tecnología abre oportunidades para hacer crecer tu negocio por medio de las aplicaciones móviles.
-                                Cada día, usuarios de todo el mundo descargan aplicaciones móviles.
+                               
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
@@ -463,7 +461,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación para una institución educativa posibilita un aprendizaje, en cualquier situación aprovechando los diferentes contextos de aprendizaje que nos ofrece nuestra vida diaria.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación para una institución educativa posibilita un aprendizaje en cualquier situación.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
@@ -471,7 +469,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                      Permiten el aprendizaje en cualquier contexto, dentro y fuera del aula. La vida se convierte en el escenario perfecto para el aprendizaje.<br/>
                                       influyan positivamente sobre la motivación del alumnado.<br/>
                                       permiten crear un entorno de aprendizaje más personalizado, adaptado a las necesidades concretas de cada alumno, fomentando el aprendizaje auto-dirigido.<br/>
-                                     Permite que las nuevas habilidades o conocimientos que se van adquiriendo puedan aplicarse en el momento.
+                                    
                                  </p>
                                </div>
                           </div> 
@@ -502,7 +500,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;"> Una aplicación movil de un <b>hospital</b> es una herramienta para que tus pacientes puedan ir a cita de una manera más facíl asi evitando ir a hacer filas y a los doctores tener a la mano el historial clínico.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;"> Una aplicación movil de un <b>hospital</b> es una herramienta para  facilitarle el acceso a la salud de tus pacientes.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
@@ -513,7 +511,6 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                      Mejora la atención del paciente.<br/>
                                      Mayor seguridad en los historiales clínicos.<br/>
                                      Observar la informacion general y horarios.<br/>
-                                     Geolocaliza en el mapa tu centro de salud, con indicaciones GPS para que los nuevos pacientes no se pierdan.
                                 </p>
                                </div>
                           </div> 
@@ -545,10 +542,6 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                      <div class="card-body " >                      
                             <div class="info_card">
                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación móvil de un <b>catálogo de productos</b> es una herramienta diseñada para que tus clientes puedan ver los productos que ofreces en el lugar que este las 24 hrs del dia, 7 dias de la semana y 365 dias del año.
-                                 </p>
-                                 <hr>
-                                 <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                              Cada día se descargan millones de aplicaciones móviles, lo cual representa una oportunidad para que tus productos puedan ser conocidos. Además, los smartphones cada vez se utilizan más para conocer los productos. Con tu app móvil podrás mantener un catálogo multimedia informando a tus clientes sobre los últimos productos, especificaciones técnicas y precios.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
@@ -630,7 +623,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación móvil para <b>eventos</b> es una herramienta desarrollada para que tu diseñes el evento que siempre has soñado ayudándote a organizarlo y hacerlo público de una manera fácil para el usuario.
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una aplicación móvil para <b>eventos</b> es una herramienta desarrollada para que tu diseñes el evento que siempre has soñado ayudándote a organizarlo.
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                     Ventajas<br/>

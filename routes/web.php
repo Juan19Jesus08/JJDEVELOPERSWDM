@@ -14,8 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 /*RUTAS PRINCIPALES DE LA PAGINA PRINCIPAL*/
 
-Route::get('/ejemplo', function () {
-    return view('/principal/ejemplo');
+Route::get('/tienda', function () {
+    return view('/principal/tienda');
 
 });
 

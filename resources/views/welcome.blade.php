@@ -168,7 +168,7 @@
                       </li>-->
                       <li class="rd-nav-item"><a class="rd-nav-link" href="/contact/">Contacto</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="#team">Tienda</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="/tienda/">Tienda</a>
                       </li>
                       <!--<li class="rd-nav-item"><a class="rd-nav-link" href="#news">News</a>
                       </li>-->

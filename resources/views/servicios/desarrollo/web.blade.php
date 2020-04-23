@@ -319,11 +319,12 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una <b>aplicación web</b> es una herramienta similar a una aplicación de escritio o móvil que puede ser accedida desde cualquier <b>navegador web </b>(Google Chrome, Safari, Opera, Mozilla Firefox, etc.), ya sea a través de <b>internet</b> o bien desde una <b>red local.</b><br/> 
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Una <b>aplicación web</b> es una herramienta similar a una aplicación de escritorio o móvil que puede ser accedida desde cualquier
+                                navegador web.
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                      La principal ventaja que tiene es la capacidad de ser accedida desde <b>cualquier lugar</b>, ya sea desde un <b>dispositivo móvil</b> o <b>computadora.</b> Ésta <b><u>no tiene que ser instalada</u></b>, sólo basta con tenerla alojada en algún <b>servidor</b> y desde cualquier parte se podrá contar con sus beneficios. 
+                                      La principal ventaja que tiene es la capacidad de ser accedida desde <b>cualquier lugar</b>, ya sea desde un <b>dispositivo móvil</b> o <b>computadora.</b> 
                                  </p>
                                 <hr>
                                   <p style=" text-align: justify; line-height: 1.5; font-size:12px;">
@@ -389,7 +390,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                     <div class="card mb-2">
                        <div class="unit flex-column flex-md-row align-items-center">
                           <div class="unit-left">
-                             <img class="box-info-figure" src="/images/r_comercio.jpg" width="200px" height="200px">
+                             <img class="box-info-figure" src="/images/r_publicidad.jpg" width="200px" height="200px">
                           </div>   
                                 <div class="unit-body" style="margin-left:0;">
                                    <div class="box-info-content">
@@ -399,9 +400,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                 <p style="text-align: justify; line-height: 1.5; font-size:12px;">Hoy en día no hay ninguna duda, un negocio necesita estar en Internet. Cada ves somos más los que recurrimos a Internet para interactuar con el mundo.
-                                 </p>
-                                 <hr>
+                                
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                      Una <b>web corporativa</b> es un tipo de web que sirve para <b>brindar información</b> acerca de tu empresa, permitiendo establecer una relación y <b>facilitar</b> el contacto con los usuarios.<br/>
                                  </p>
@@ -451,15 +450,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
                                    Los artículos de un blog suelen estar acompañados de <b>fotografías, videos, sonidos, animaciones, en general contenido multimedia</b> para ilustrar mucho mejor el tema tratado. En pocas palabras un blog es un espacio en Internet en el que puedes <b>expresar tus ideas</b>, experiencias y opiniones.
                                  </p>
-                                <hr>
-                                <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
-                                    Existen diferentes tipos de blog, algunos de ellos son: <br/>                                  
-                                    Otorga presencia en Internet, más alla de la típica página de <b>Facebook</b>;
-                                    Mejora la <b>competitividad</b> ante competidores que no cuenten con página web propia;<br/>
-                                    Brinda <b>prestigio</b>;
-                                    Cuando oigan hablar de tu empresa, es probable que lo primero que hagan sea <b>buscarla en Internet</b>;
-                                    Permite llegar a <b>nuevos clientes</b> sin la limitante de la ubicación.
-                                </p>
+                               
                                </div>
                           </div> 
                      </div>    
@@ -491,7 +482,7 @@ BRINDANDO UN NIVEL DE CALIDAD Y SERVICIOS INCOMPARABLES</h4>
                       </div>
                      <div class="card-body " >                      
                             <div class="info_card">
-                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">En la actualidad, implementar un punto de venta no es un lujo, sino una necesidad para mejorar la <b>administración</b> del negocio. Este sistema es el encargado de realizar todo el <b>proceso de venta</b>, desde la <b>captura de productos</b>, <b>emisión de comprobantes</b>, <b>control de inventario</b>, <b>emisión de reportes</b>, entre otras
+                                <p style="text-align: justify; line-height: 1.5; font-size:12px;">Es el encargado de realizar el <b>proceso de venta</b>, desde la <b>captura de productos</b>, <b>emisión de comprobantes</b>, <b>control de inventario</b>, <b>emisión de reportes</b>, entre otras
                                  </p>
                                  <hr>
                                  <p style="text-align: justify;  line-height: 1.5; font-size:12px;">
